@@ -36,6 +36,11 @@ navigation_header:
   Home: /
   About: /about/
   Blog: /blog/
+  Events: /events/
+  Our Partners: /partners/
+  MadeByStudents: /made-by-students/
+  Join Us: /join-us/
+  Contact Us: /contact/
 
 # Footer nav
 navigation_footer:

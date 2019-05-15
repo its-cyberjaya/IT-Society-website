@@ -1230,7 +1230,10 @@ body {
   padding-bottom: .4rem;
   margin-bottom: 1.6rem;
   text-align: center;
-  background: #f9fafa;
+  background: #373B44;
+  background: -webkit-linear-gradient(to right, #4286f4, #373B44);
+  background: linear-gradient(to right, #4286f4, #373B44);
+  color: rgba(255, 255, 255, 0.7);
   background-size: cover;
   background-position: center; }
   .feature .container {
@@ -1251,7 +1254,7 @@ body {
 .logo {
   display: inline-block;
   line-height: 0;
-  max-height: 4rem;
+  max-height: 1rem;
   display: -webkit-box;
   display: -webkit-flex;
   display: -moz-flex;
@@ -1263,7 +1266,7 @@ body {
   -moz-align-items: center;
   align-items: center; }
   .logo img {
-    max-height: 5rem; }
+    max-height: 3rem; }
 
 .nav a {
   padding: .2rem; }
@@ -1646,3 +1649,5 @@ pre code {
 .typeset pre {
   white-space: pre;
   overflow-x: scroll; }
+.typeset h2 {
+  color: white; }
