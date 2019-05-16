@@ -1254,12 +1254,12 @@ body {
 
 .small {
   padding-top: .8rem;
-  color: #ffffff;
+  color: #000;
   display: inline-block; }
 
 .footer {
   background: #242e2b;
-  color: #163275; }
+  color: #ffffff; }
   .footer a {
     color: #ffffff; }
     .footer a:hover {
@@ -1270,7 +1270,8 @@ body {
     -ms-flex-wrap: wrap;
     flex-wrap: wrap; }
   .footer .small {
-    padding-top: 0; }
+    padding-top: 0;
+    color: #ffffff; }
 
 .nav--paginator {
   display: -webkit-box;
@@ -1630,17 +1631,20 @@ pre code {
 .typeset h2 {
   color: white; }
 
-.list {
+.list--nav {
   display: flex;
   justify-content: center;
   align-items: center; }
 
-.item {
+.item--nav {
   line-height: 50px;
   text-align: center;
   padding: 0 5px; }
 
-.item:nth-child(5) {
-  content: url("https://gravatar.com/avatar/fba3bd65ae066575bed2847d64db94ce");
+.item--nav:nth-child(5) {
+  content: url("https://en.gravatar.com/userimage/151615055/40c3751e5d90ba3b6713edfc02498e50.png");
   padding: 0 15px;
   transform: scale(0.8); }
+
+article h1:first-of-type {
+  display: none; }
