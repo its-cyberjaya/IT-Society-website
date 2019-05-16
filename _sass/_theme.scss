@@ -12,6 +12,7 @@ body {
   width: 90%;
   max-width: 1200px;
   margin: 0 auto;
+
 }
 
 
@@ -22,13 +23,13 @@ body {
     text-align: right;
   }
   .logo {
-    @include flex(0 0 auto);
+    // @include flex(0 0 auto);
   }
   .container {
-    @include flexbox;
-    @include flex-direction(row);
-    @include justify-content(space-between);
-    padding: 1rem 0;
+    // @include flexbox;
+    // @include flex-direction(row);
+    // @include justify-content(space-between);
+    padding: 0;
     @include breakpoint(break-1) {
       @include align-items(center);
     }
@@ -37,9 +38,8 @@ body {
 
 .header .nav {
   display: flex;
-  flex-direction: column-reverse;
-  align-items: flex-end;
-  justify-content: flex-end;
+  justify-content: center;
+  align-content: center;
   overflow: hidden;
 }
 
@@ -56,6 +56,7 @@ body {
   .container {
     min-height: 35vh;
     max-width: 60%;
+    display: flex;
     @include flex-direction(column);
     @include justify-content(center);
 
@@ -193,7 +194,7 @@ body {
 .item {
   &--nav {
     @include breakpoint(break-1) {
-      margin-left: .4rem;
+      margin-left: 0;
       display: inline-block;
     }
     &:first-of-type {
@@ -461,4 +462,20 @@ pre code {
   h2{
     color: white;
   }
+}
+
+.list{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.item{
+  line-height: 50px;
+  text-align: center;
+  padding: 0 5px;
+}
+.item:nth-child(5){
+  content: url('https://gravatar.com/avatar/fba3bd65ae066575bed2847d64db94ce');
+  padding: 0 15px;
+  transform: scale(0.8);
 }

@@ -1183,33 +1183,9 @@ body {
 .header .nav,
 .footer .nav {
   text-align: right; }
-.header .logo,
-.footer .logo {
-  -webkit-box-flex: 0;
-  -webkit-flex: 0 0 auto;
-  -moz-box-flex: 0;
-  -moz-flex: 0 0 auto;
-  -ms-flex: 0 0 auto;
-  flex: 0 0 auto; }
 .header .container,
 .footer .container {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -moz-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-direction: normal;
-  -webkit-box-orient: horizontal;
-  -webkit-flex-direction: row;
-  -moz-flex-direction: row;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  -webkit-box-pack: justify;
-  -ms-flex-pack: justify;
-  -webkit-justify-content: space-between;
-  -moz-justify-content: space-between;
-  justify-content: space-between;
-  padding: 1rem 0; }
+  padding: 0; }
   @media screen and (min-width: 40em) {
     .header .container,
     .footer .container {
@@ -1221,9 +1197,8 @@ body {
 
 .header .nav {
   display: flex;
-  flex-direction: column-reverse;
-  align-items: flex-end;
-  justify-content: flex-end;
+  justify-content: center;
+  align-content: center;
   overflow: hidden; }
 
 .feature {
@@ -1239,6 +1214,7 @@ body {
   .feature .container {
     min-height: 35vh;
     max-width: 60%;
+    display: flex;
     -webkit-box-direction: normal;
     -webkit-box-orient: vertical;
     -webkit-flex-direction: column;
@@ -1403,7 +1379,7 @@ body {
 
 @media screen and (min-width: 40em) {
   .item--nav {
-    margin-left: .4rem;
+    margin-left: 0;
     display: inline-block; } }
 .item--nav:first-of-type {
   margin-left: 0; }
@@ -1651,3 +1627,18 @@ pre code {
   overflow-x: scroll; }
 .typeset h2 {
   color: white; }
+
+.list {
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.item {
+  line-height: 50px;
+  text-align: center;
+  padding: 0 5px; }
+
+.item:nth-child(5) {
+  content: url("https://gravatar.com/avatar/fba3bd65ae066575bed2847d64db94ce");
+  padding: 0 15px;
+  transform: scale(0.8); }

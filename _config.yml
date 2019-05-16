@@ -25,7 +25,7 @@ baseurl: ''
 title: 'IT Society'
 description: 'Empowerment through technology'
 permalink: pretty
-logo: "https://gravatar.com/avatar/fba3bd65ae066575bed2847d64db94ce"
+# logo: "https://gravatar.com/avatar/fba3bd65ae066575bed2847d64db94ce"
 
 # Pagination
 paginate: 5
@@ -34,10 +34,10 @@ paginate_path: blog/page:num
 # Header nav
 navigation_header:
   Home: /
-  About: /about/
   Blog: /blog/
   Events: /events/
   Our Partners: /partners/
+  Logo: //
   MadeByStudents: /made-by-students/
   Join Us: /join-us/
   Contact Us: /contact/
