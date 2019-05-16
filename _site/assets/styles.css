@@ -4,6 +4,7 @@
  * 2. Prevent adjustments of font size after orientation changes in IE and iOS.
  */
 @import url("https://fonts.googleapis.com/css?family=Merriweather:400,700");
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display|Source+Sans+Pro");
 html {
   font-family: sans-serif;
   /* 1 */
@@ -438,21 +439,21 @@ body {
       font-size: 1.1578947368rem; } }
 
 a {
-  color: #05bf85;
+  color: #949494;
   text-decoration: none;
   transition: color .1s, background-color .1s; }
   a:hover, a:active, a:focus {
-    color: #008000;
+    color: #303955;
     text-decoration: none; }
 
 .typeset p a, .typeset li a {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #05bf85 50%);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #949494 50%);
   background-position: 0 93%;
   background-repeat: repeat-x;
   background-size: 100% 0.15rem;
   text-shadow: 0.1rem 0 #ffffff, 0.15rem 0 #ffffff, -0.1rem 0 #ffffff, -0.15rem 0 #ffffff; }
   .typeset p a:hover, .typeset p a:active, .typeset p a:focus, .typeset li a:hover, .typeset li a:active, .typeset li a:focus {
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #008000 50%); }
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #303955 50%); }
 .typeset p {
   line-height: 2rem;
   margin-bottom: 1.49999rem;
@@ -476,7 +477,7 @@ a {
       padding-top: 0.5657994737rem; } }
 .typeset h1, .typeset h2, .typeset h3, .typeset h4, .typeset h5, .typeset h6 {
   color: #242e2b;
-  font-family: "Merriweather", serif;
+  font-family: "Playfair Display", serif;
   font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
   font-style: normal;
   font-weight: 700; }
@@ -722,7 +723,7 @@ a {
   font-size: 1.1916666667rem;
   margin-bottom: -0.553135rem;
   padding-top: 0.553135rem;
-  font-family: "Merriweather", serif;
+  font-family: "Playfair Display", serif;
   font-feature-settings: 'liga', 'lnum', 'tnum', 'kern';
   font-style: normal;
   font-weight: 400;
@@ -779,7 +780,7 @@ a {
   font-style: italic; }
 .typeset small, .typeset .caption {
   font-size: 1.0666666667rem;
-  font-family: "Merriweather", serif;
+  font-family: "Playfair Display", serif;
   font-style: normal;
   font-weight: 400; }
   @media screen and (min-width: 40em) {
@@ -800,7 +801,7 @@ a {
   line-height: 2rem;
   margin-bottom: 1.39999rem;
   padding-top: 0.60001rem;
-  color: #a8adac; }
+  color: #163275; }
   @media screen and (min-width: 40em) {
     .typeset .caption {
       margin-bottom: 1.3642757143rem;
@@ -822,7 +823,7 @@ a {
 .typeset .delta + .caption, .typeset .epsilon + .caption, .typeset .zeta + .caption {
   margin-top: 0rem; }
 .typeset blockquote p {
-  border-left: 0.15rem solid #05bf85;
+  border-left: 0.15rem solid #949494;
   font-style: italic;
   padding-left: 1rem;
   margin-bottom: 1.99999rem;
@@ -847,7 +848,7 @@ a {
   .typeset blockquote {
     margin-left: -1rem; } }
 .typeset hr {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #a8adac 50%);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #163275 50%);
   background-position: 0 50%;
   background-repeat: repeat-x;
   background-size: 100% 0.15rem;
@@ -1245,21 +1246,22 @@ body {
     max-height: 3rem; }
 
 .nav a {
-  padding: .2rem; }
+  padding: .2rem;
+  font-family: "Source Sans Pro", sans-serif; }
 .nav--social a {
   display: inline-block;
   line-height: 1; }
 
 .small {
   padding-top: .8rem;
-  color: #a8adac;
+  color: #ffffff;
   display: inline-block; }
 
 .footer {
   background: #242e2b;
-  color: #a8adac; }
+  color: #163275; }
   .footer a {
-    color: #a8adac; }
+    color: #ffffff; }
     .footer a:hover {
       color: #ffffff; }
   .footer .container {
@@ -1281,7 +1283,7 @@ body {
   -webkit-justify-content: space-between;
   -moz-justify-content: space-between;
   justify-content: space-between;
-  color: #a8adac;
+  color: #163275;
   text-align: center; }
 
 .pagination {
@@ -1384,7 +1386,7 @@ body {
 .item--nav:first-of-type {
   margin-left: 0; }
 .item--current a {
-  color: #a8adac; }
+  color: #163275; }
 
 a .icon {
   transition: fill .1s; }
@@ -1444,7 +1446,7 @@ video {
   position: relative; }
   .form__legend {
     font-style: italic;
-    color: #a8adac;
+    color: #163275;
     position: absolute;
     overflow: hidden;
     right: 0;
@@ -1501,7 +1503,7 @@ button,
 
 .button--nav {
   background: none;
-  color: #05bf85;
+  color: #949494;
   margin-bottom: 0;
   min-height: 4rem;
   min-width: 4rem; }
@@ -1510,7 +1512,7 @@ button,
       display: none; } }
   .button--nav:hover, .button--nav:focus {
     box-shadow: none;
-    color: #008000; }
+    color: #303955; }
 
 a:focus, a:hover:focus,
 button:focus,
@@ -1536,7 +1538,7 @@ input[type="color"],
 textarea,
 select {
   width: 100%;
-  border: 1px solid #a8adac; }
+  border: 1px solid #163275; }
   input[type="text"]:hover,
   input[type="email"]:hover,
   input[type="search"]:hover,
