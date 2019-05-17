@@ -8,6 +8,9 @@
   
     
     
+  
+    
+    
       {
         "title": "Hello World",
         "excerpt": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
@@ -54,10 +57,17 @@
   },
   
   {
-    "title": "blog posts",
+    "title": "blog",
     "excerpt": "\n",
     "content": "\n",
     "url": "/blog/"
+  },
+  
+  {
+    "title": "partners",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/partners/"
   },
   
   {

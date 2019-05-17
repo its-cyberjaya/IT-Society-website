@@ -1682,3 +1682,51 @@ article p {
   font-size: 30px;
   color: #ffffff;
   letter-spacing: 2px; }
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center; }
+
+.img {
+  width: 200px;
+  height: 200px;
+  background-size: 200px 200px;
+  border: 1px solid black;
+  margin: 10px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  text-align: center; }
+
+.img-1 {
+  background-image: url("/assets/avatars/1.png"); }
+
+.img-2 {
+  background-image: url("/assets/avatars/2.png"); }
+
+.img-3 {
+  background-image: url("/assets/avatars/3.png"); }
+
+.img-4 {
+  background-image: url("/assets/avatars/4.png"); }
+
+.img-5 {
+  background-image: url("/assets/avatars/5.png"); }
+
+.img-6 {
+  background-image: url("/assets/avatars/6.png"); }
+
+.img-7 {
+  background-image: url("/assets/avatars/7.png"); }
+
+.img-8 {
+  background-image: url("/assets/avatars/8.jpg"); }
+
+.img-9 {
+  background-image: url("/assets/avatars/9.jpg"); }
+
+.img-10 {
+  background-image: url("/assets/avatars/10.png"); }

@@ -64,5 +64,13 @@ collections:
     feature_text_desc: "Events"
     feature_image: "/assets/bg/brushed-alum-dark.png"
 
+  partners:
+    title: Our Partners
+    output: true
+    description: ""
+    feature_text: ""
+    feature_text_desc: "Our Partners"
+    feature_image: "/assets/bg/always-grey.png"
+
    
 
