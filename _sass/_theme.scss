@@ -89,12 +89,33 @@ body {
 .small {
   padding-top: .8rem;
   color: #000;
-  display: inline-block;
 }
 
+.post-meta{
+  display: flex;
+  flex-direction: row;
+  width: 300px;
+  justify-content: flex-start;
+  align-content: flex-start;
+  margin-bottom: 0.5rem;
+  color: #808080;
+}
+.categories::before{
+  font-family: FontAwesome;
+  content: "\f02b";
+}
+.date::before{
+  font-family: FontAwesome;
+  content: "\f073";
+}
+.author::before{
+  font-family: FontAwesome;
+  content: "\f007";
+}
 .footer {
   background: $headingColour;
   color: $white;
+
   a {
     color: $white;
     &:hover {
@@ -103,9 +124,10 @@ body {
   }
   .container {
     @include flex-wrap(wrap);
+    padding: 1rem;
   }
   .small {
-    padding: 1.2rem;
+    padding: 0;
     color: $white;
     font-size: 17px;
   }

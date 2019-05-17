@@ -366,6 +366,12 @@ textarea {
   font: inherit;
   /* 2 */ }
 
+@font-face {
+  font-family: "FontAwesome";
+  font-weight: normal;
+  font-style: normal;
+  src: url("https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.eot?v=4.3.0");
+  src: url("https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.eot?#iefix&v=4.3.0") format("embedded-opentype"), url("https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.woff2?v=4.3.0") format("woff2"), url("https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.woff?v=4.3.0") format("woff"), url("https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.ttf?v=4.3.0") format("truetype"), url("https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.svg?v=4.3.0#fontawesomeregular") format("svg"); }
 * {
   box-sizing: border-box; }
 
@@ -1253,8 +1259,28 @@ body {
 
 .small {
   padding-top: .8rem;
-  color: #000;
-  display: inline-block; }
+  color: #000; }
+
+.post-meta {
+  display: flex;
+  flex-direction: row;
+  width: 300px;
+  justify-content: flex-start;
+  align-content: flex-start;
+  margin-bottom: 0.5rem;
+  color: #808080; }
+
+.categories::before {
+  font-family: FontAwesome;
+  content: "\f02b"; }
+
+.date::before {
+  font-family: FontAwesome;
+  content: "\f073"; }
+
+.author::before {
+  font-family: FontAwesome;
+  content: "\f007"; }
 
 .footer {
   background: #242e2b;
@@ -1267,9 +1293,10 @@ body {
     -webkit-flex-wrap: wrap;
     -moz-flex-wrap: wrap;
     -ms-flex-wrap: wrap;
-    flex-wrap: wrap; }
+    flex-wrap: wrap;
+    padding: 1rem; }
   .footer .small {
-    padding: 1.2rem;
+    padding: 0;
     color: #ffffff;
     font-size: 17px; }
 

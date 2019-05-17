@@ -12,5 +12,8 @@
 
 <small class="small  post-meta">
   {% assign date_format = site.date_format | default: "%d %b %Y" %}
-  {{ categories | append: "&nbsp;&middot;&nbsp;" }}<time datetime="{{ page.date | date_to_xmlschema }}" class="time">{{ page.date | date: date_format }}</time>
+  {% assign author = page.author %}
+  <div class="categories">{{ categories | append: "&nbsp;&nbsp;" }}</div>
+  <div class="date"><time datetime="{{ page.date | date_to_xmlschema }}" class="time"> {{ page.date | date: date_format | append: "&nbsp;&nbsp;" }}</time></div> 
+  <div class="author"> {{author}}</div>
 </small>
