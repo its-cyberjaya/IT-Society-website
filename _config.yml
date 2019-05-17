@@ -36,7 +36,7 @@ navigation_header:
   Blog: /blog/
   Events: /events/
   Our Partners: /partners/
-  Logo: //
+  Logo: /
   MadeByStudents: /made-by-students/
   Join Us: /join-us/
   Contact Us: /contact/
@@ -44,7 +44,7 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
-  Back to top: "#top"
+  Back to top: ""
 
 # Collections
 collections:
@@ -52,6 +52,17 @@ collections:
     title: Posts
     output: true
     description: ""
-    feature_text: |
-      Blog posts
-    feature_image: "/assets/bg/brushed-alum-dark.png"
+    feature_text: ""
+    feature_text_desc: "Blog"
+    feature_image: "/assets/bg/clean-gray-paper.png"
+
+  events:
+    title: Events
+    output: true
+    description: ""
+    feature_text: ""
+    feature_text_desc: "Events"
+    feature_image: "/assets/bg/clean-gray-paper.png"
+
+   
+

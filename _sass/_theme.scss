@@ -30,10 +30,12 @@ body {
     // @include flexbox;
     // @include flex-direction(row);
     // @include justify-content(space-between);
-    padding: 0;
     @include breakpoint(break-1) {
       @include align-items(center);
     }
+  }
+  h2{
+    color: $white;
   }
 }
 
@@ -103,8 +105,9 @@ body {
     @include flex-wrap(wrap);
   }
   .small {
-    padding-top: 0;
+    padding: 1.2rem;
     color: $white;
+    font-size: 17px;
   }
 }
 
@@ -460,9 +463,6 @@ pre code {
     white-space: pre;
     overflow-x: scroll;
   }
-  h2{
-    color: white;
-  }
 }
 
 .list{
@@ -479,8 +479,9 @@ pre code {
     text-align: center;
     padding: 0 5px;
   }
-  
 }
+
+//Navbar header logo
 .item{
   &--nav:nth-child(5){
     content: url('https://en.gravatar.com/userimage/151615055/40c3751e5d90ba3b6713edfc02498e50.png');
@@ -491,4 +492,11 @@ pre code {
 
 article h1:first-of-type{
   display: none;
+}
+
+.desc{
+  font-family: "Playfair Display", serif;
+  font-size: 30px;
+  color: $white;
+  letter-spacing: 2px;
 }
