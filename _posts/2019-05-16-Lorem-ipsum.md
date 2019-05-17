@@ -3,6 +3,7 @@ layout: post
 title: Lorem Ipsum
 categories:
 - random
+- events
 feature_image: "/assets/bg/ticks.png"
 feature_text_desc: "Lorem Ipsum"
 author: Grace
