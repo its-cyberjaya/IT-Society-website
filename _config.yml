@@ -39,7 +39,7 @@ navigation_header:
   Our Partners: /partners/
   Logo: /
   MadeByStudents: /MadeByStudents/
-  Join Us: /joinUs/
+  Join Us: /join/
   Contact Us: /contact/
 
 
@@ -87,6 +87,14 @@ collections:
     description: ""
     feature-text: ""
     feature_text_desc: "Join Us"
+    feature_image: "/assets/bg/clean-gray-paper.png"
+
+  contact:
+    title: Contact Us
+    output: true
+    description: ""
+    feature-text: ""
+    feature_text_desc: "Contact Us"
     feature_image: "/assets/bg/clean-gray-paper.png"
 
    
