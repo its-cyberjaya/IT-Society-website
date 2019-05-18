@@ -1,6 +1,6 @@
 ---
 layout: post
-title: lorem 2
+feature_text_desc: lorem 2
 categories:
 - General
 feature_image: "https://picsum.photos/2560/600?image=872"

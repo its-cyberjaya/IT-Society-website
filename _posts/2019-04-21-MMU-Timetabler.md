@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MMU Timetabler
+feature_text_desc: MMU Timetabler
 categories:
 - MadeByStudents
 feature_image: "https://picsum.photos/2560/600?image=872"
