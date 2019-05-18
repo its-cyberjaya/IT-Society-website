@@ -9,6 +9,14 @@
 <lastmod>2019-03-10T00:00:00+08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/madebystudents/2019/03/23/Drooltip.js/</loc>
+<lastmod>2019-03-23T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/madebystudents/2019/04/21/MMU-Timetabler/</loc>
+<lastmod>2019-04-21T00:00:00+08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/random/events/2019/05/16/Lorem-ipsum/</loc>
 <lastmod>2019-05-16T00:00:00+08:00</lastmod>
 </url>
@@ -26,6 +34,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/events/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/MadeByStudents/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/partners/</loc>

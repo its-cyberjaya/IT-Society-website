@@ -1,0 +1,22 @@
+{% for category in site.categories %}
+  {% assign category_name = category | first %}
+    {% if category_name == "MadeByStudents" %}
+      <section class="section  typeset">
+        <!-- <h2 id="{{ category_name | slugify }}">{{ category_name }}</h2> -->
+        <ul class="list  list--posts">
+          {% for page in site.categories[category_name] %}
+            {% assign has_categories = true %}
+            <li class="item  item--post">
+              <article class="article  article--post  typeset">
+                <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
+                <img class="preview-image" src="{{page.feature_image}}">
+                {{ page.excerpt | truncatewords: 20 | markdownify }}<a href="{{ site.baseurl }}{{ page.url }}">Read More >></a>
+              </article>
+            </li>
+          {% endfor %}
+        </ul>
+        {% unless forloop.last %}<hr/>{% endunless %}
+      </section>
+    {% endif %}
+{% endfor %}
+

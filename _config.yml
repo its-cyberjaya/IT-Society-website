@@ -24,6 +24,7 @@ baseurl: ''
 title: 'IT Society'
 description: 'Empowerment through technology'
 permalink: pretty
+avatarurl: 'https://gravatar.com/avatar/fba3bd65ae066575bed2847d64db94ce'
 # logo: "https://gravatar.com/avatar/fba3bd65ae066575bed2847d64db94ce"
 
 # Pagination
@@ -37,7 +38,7 @@ navigation_header:
   Events: /events/
   Our Partners: /partners/
   Logo: /
-  MadeByStudents: /made-by-students/
+  MadeByStudents: /MadeByStudents/
   Join Us: /join-us/
   Contact Us: /contact/
 
@@ -71,6 +72,14 @@ collections:
     feature_text: ""
     feature_text_desc: "Our Partners"
     feature_image: "/assets/bg/always-grey.png"
+
+  MadeByStudents:
+    title: MadeByStudents
+    output: true
+    description: ""
+    feature-text: ""
+    feature_text_desc: "#MadeByStudents"
+    feature_image: "/assets/bg/clean-gray-paper.png"
 
    
 
