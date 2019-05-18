@@ -36,10 +36,13 @@
 <loc>http://localhost:4000/events/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/MadeByStudents/</loc>
+<loc>http://localhost:4000/joinUs/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/partners/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/MadeByStudents/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
