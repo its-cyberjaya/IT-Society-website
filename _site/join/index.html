@@ -216,34 +216,28 @@
 
     
 
-
-
-
-
-<form class="form  form--contact" method="post" name="submit-to-google-sheet" action="/thanks/"
-  
->
+<form class="form  form--" method="post" name="submit-to-google-sheet">
   <fieldset class="fieldset  form__fieldset">
-    <legend class="legend form__legend">Contact</legend>
-    <label class="label" for="email--contact">Email Address: <span class="required">*</span></label>
-    <input class="input" id="email--contact" type="email" name="email" value="" placeholder="email@website.com" required="required" />
+    <legend class="legend form__legend"></legend>
+    <label class="label" for="email--">Email Address: <span class="required">*</span></label>
+    <input class="input" id="email--" type="email" name="email" value="" placeholder="email@website.com" required="required" />
 
-    <label class="label" for="name--contact">Name: <span class="required">*</span></label>
-    <input class="input" id="name--contact" type="text" name="name" value="" placeholder="John Doe" required="required" />
+    <label class="label" for="name--">Name: <span class="required">*</span></label>
+    <input class="input" id="name--" type="text" name="name" value="" placeholder="John Doe" required="required" />
 
-    <label class="label" for="studentidee--contact">Student ID: <span class="required">*</span></label>
-    <input class="input" id="studentidee--contact" type="text" name="studentidee" value="" placeholder="Your student ID" required="required" />
+    <label class="label" for="studentid--">Student ID: <span class="required">*</span></label>
+    <input class="input" id="studentid--" type="text" name="studentid" value="" placeholder="Your student ID" required="required" />
 
-    <label class="label" for="contactz--contact">Contact: <span class="required">*</span><small style="font-size:14px; color:#808080;">(for Foundation students, insert "N/A")</small></label>
-    <input class="input" id="contactz--contact" type="text" name="contactz" value="" placeholder="Your contact number" required="required" />
+    <label class="label" for="contactnum--">Contact: <span class="required">*</span></label>
+    <input class="input" id="contactnum--" type="text" name="contactnum" value="" placeholder="Your contact number" required="required" />
 
-    <label class="label" for="birthday--contact">Birthdate: <span class="required">*</span></label>
-    <input class="input" id="birthday--contact" type="date" name="birthdate" value="" placeholder="Your birthdate" required="required" />
+    <label class="label" for="birthday--">Birthdate: <span class="required">*</span></label>
+    <input class="input" id="birthday--" type="date" name="birthdate" value="" placeholder="Your birthdate" required="required" />
 
     <br/>
 
-    <label class="label" for="faculty--contact">Faculty: <span class="required">*</span></label>
-    <select  class="input" id="faculty--contact"  name="faculty" required="required">
+    <label class="label" for="faculty--">Faculty: <span class="required">*</span></label>
+    <select  class="input" id="faculty--"  name="faculty" required="required">
       <option selected>--Select a faculty--</option>
       <option value="FCI">Faculty of Computing & Informatics</option>
       <option value="FOE">Faculty of Engineering</option>
@@ -253,11 +247,11 @@
       <option value="PGD">Faculty of Postgraduate Studies</option>
     </select>
 
-    <label class="label" for="fb--contact">FB Username: <span class="required">*</span></label>
-    <input class="input" id="fb--contact" type="text" name="fb" value="" placeholder="Your Facebook ID" required="required" />
+    <label class="label" for="fb--">FB Username: <span class="required">*</span></label>
+    <input class="input" id="fb--" type="text" name="fb" value="" placeholder="Your Facebook ID" required="required" />
 
-    <label class="label" for="study_year--contact">Year of Study: <span class="required">*</span></label>
-    <select  class="input" id="study_year--contact"  name="study_year" required="required">
+    <label class="label" for="study_year--">Year of Study: <span class="required">*</span></label>
+    <select  class="input" id="study_year--"  name="study_year" required="required">
       <option selected>--Select a year of study--</option>
       <option value="first year">First Year</option>
       <option value="second year">Second Year</option>
@@ -265,33 +259,23 @@
       <option value="fourth year">Fourth Year</option>
     </select>
 
-    <label class="label" for="event--contact">What type of events are you interested in?: <span class="required">*</span></label>
-    <input class="input" id="event--contact" type="text" name="event" value="" placeholder="e.g: Workshops, Coding Competition, Talks, Career Fair, etc." required="required" />
+    <label class="label" for="event--">What type of events are you interested in?: <span class="required">*</span></label>
+    <input class="input" id="event--" type="text" name="event" value="" placeholder="e.g: Workshops, Coding Competition, Talks, Career Fair, etc." required="required" />
 
     
 
-    <label class="label" for="internship--contact">Internship Period: <span class="required">*</span><small style="font-size:14px; color:#808080;">(for Foundation students, insert "N/A")</small></label>
-    <input class="input" id="internship--contact" type="text" name="internship" value="" placeholder="Your internship period" required="required" />
+    <label class="label" for="internship--">Internship Period: <span class="required">*</span><small style="font-size:14px; color:#808080;">(for Foundation students, insert "N/A")</small></label>
+    <input class="input" id="internship--" type="text" name="internship" value="" placeholder="Your internship period" required="required" />
 
     <input class="button" type="submit" value="Send" />
     <br/>
     <small class="small"><span class="required">*</span> indicates a required field</small>
 
-    
-      <input type="text" name="_gotcha" style="display:none">
-      <input type="hidden" name="_subject" value="IT Society submission from Contact">
-      <input type="hidden" name="_next" value="/thanks/" />
-    
   </fieldset>
 </form>
 
-  <!-- <script>
-    var email = "";
-    var unraveledEmail = email.split("").reverse().join("");
-    var form = document.querySelector(".form--contact");
-      form.setAttribute("action", "https://formspree.io/" + unraveledEmail);
-  </script> -->
 
+<!-- submit to google spreadsheet -->
 <script>
     const scriptURL = 'https://script.google.com/macros/s/AKfycbxDC4y4DSeOmBq196ZdeccmdiM5J7K2wknRb3tq7QbUIakSXzg/exec'
     const form = document.forms['submit-to-google-sheet']
@@ -303,8 +287,6 @@
         .catch(error => console.error('Error!', error.message))
     })
   </script>
-  <noscript>Please enable JavaScript to use the form.</noscript>
-
 
     
 

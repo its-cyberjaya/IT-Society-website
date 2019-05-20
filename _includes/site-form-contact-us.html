@@ -1,6 +1,6 @@
 
 
-<form class="form  form--{{ name_id }}" method="post" name="submit-to-google-sheet">
+<form class="form  form--{{ name_id }}" method="post" name="submit-to-google-sheet-2">
         <fieldset class="fieldset  form__fieldset">
           <legend class="legend form__legend">{{ name }}</legend>
 
@@ -11,7 +11,7 @@
           <input class="input" id="email--{{ name_id }}" type="email" name="email" value="" placeholder="email@website.com" required="required" />
 
           <label class="label" for="message--{{ name_id }}">Message: <span class="required">*</span></label>
-          <textarea class="textarea" id="message--{{ name_id }}" name="message" placeholder="Your message" required="required" />
+          <textarea class="textarea" id="message--{{ name_id }}" name="message" placeholder="Your message" required="required" ></textarea>
       
           <input class="button" type="submit" value="Send" />
           <br/>
@@ -23,8 +23,8 @@
       
       <!-- submit to google spreadsheet -->
       <script>
-          const scriptURL = ''
-          const form = document.forms['submit-to-google-sheet']
+          const scriptURL = 'https://script.google.com/macros/s/AKfycbz3MAViYUxPs_PP5RiqS6-joPwP_FBF-Nhw2kxWlDUC6fIrHrg/exec'
+          const form = document.forms['submit-to-google-sheet-2']
         
           form.addEventListener('submit', e => {
             e.preventDefault()
