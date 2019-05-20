@@ -1690,11 +1690,11 @@ article p {
   align-content: center; }
 
 .img {
-  width: 200px;
-  height: 200px;
-  background-size: 200px 200px;
-  border: 1px solid black;
-  margin: 10px;
+  width: 100px;
+  height: 100px;
+  background-size: 100px 100px;
+  border: 2px solid rgba(0, 0, 0, 0.5);
+  margin: 5px;
   position: relative;
   display: flex;
   flex-direction: column;
@@ -1702,31 +1702,178 @@ article p {
   text-align: center; }
 
 .img-1 {
-  background-image: url("/assets/avatars/1.png"); }
+  background-image: url("/assets/logos/123rf.png"); }
 
 .img-2 {
-  background-image: url("/assets/avatars/2.png"); }
+  background-image: url("/assets/logos/accenture.png"); }
 
 .img-3 {
-  background-image: url("/assets/avatars/3.png"); }
+  background-image: url("/assets/logos/airstar.png"); }
 
 .img-4 {
-  background-image: url("/assets/avatars/4.png"); }
+  background-image: url("/assets/logos/apd.png"); }
 
 .img-5 {
-  background-image: url("/assets/avatars/5.png"); }
+  background-image: url("/assets/logos/apptivity_lab.png"); }
 
 .img-6 {
-  background-image: url("/assets/avatars/6.png"); }
+  background-image: url("/assets/logos/bae_systems.png"); }
 
 .img-7 {
-  background-image: url("/assets/avatars/7.png"); }
+  background-image: url("/assets/logos/beans.png"); }
 
 .img-8 {
-  background-image: url("/assets/avatars/8.jpg"); }
+  background-image: url("/assets/logos/wowwwz.png"); }
 
 .img-9 {
-  background-image: url("/assets/avatars/9.jpg"); }
+  background-image: url("/assets/logos/binary.png"); }
 
 .img-10 {
-  background-image: url("/assets/avatars/10.png"); }
+  background-image: url("/assets/logos/capital_dynamics.png"); }
+
+.img-11 {
+  background-image: url("/assets/logos/chumbaka.png"); }
+
+.img-12 {
+  background-image: url("/assets/logos/ckgraphic.png"); }
+
+.img-13 {
+  background-image: url("/assets/logos/cyberview.png"); }
+
+.img-14 {
+  background-image: url("/assets/logos/dahmakan.png"); }
+
+.img-15 {
+  background-image: url("/assets/logos/dell.png"); }
+
+.img-16 {
+  background-image: url("/assets/logos/df_automation.png"); }
+
+.img-17 {
+  background-image: url("/assets/logos/flexiroam.png"); }
+
+.img-18 {
+  background-image: url("/assets/logos/fourtitude.png"); }
+
+.img-19 {
+  background-image: url("/assets/logos/fusionex.png"); }
+
+.img-20 {
+  background-image: url("/assets/logos/gdg.png"); }
+
+.img-21 {
+  background-image: url("/assets/logos/get_doc.png"); }
+
+.img-22 {
+  background-image: url("/assets/logos/go_car.png"); }
+
+.img-23 {
+  background-image: url("/assets/logos/grab.png"); }
+
+.img-24 {
+  background-image: url("/assets/logos/hewlett_packard.png"); }
+
+.img-25 {
+  background-image: url("/assets/logos/hilti.png"); }
+
+.img-26 {
+  background-image: url("/assets/logos/ing_lab.png"); }
+
+.img-27 {
+  background-image: url("/assets/logos/internet_now.png"); }
+
+.img-28 {
+  background-image: url("/assets/logos/ipay88.png"); }
+
+.img-30 {
+  background-image: url("/assets/logos/jackson.png"); }
+
+.img-31 {
+  background-image: url("/assets/logos/jagaapp.png"); }
+
+.img-32 {
+  background-image: url("/assets/logos/juristech.png"); }
+
+.img-33 {
+  background-image: url("/assets/logos/kinetics.png"); }
+
+.img-34 {
+  background-image: url("/assets/logos/locus_t.png"); }
+
+.img-35 {
+  background-image: url("/assets/logos/magic.png"); }
+
+.img-36 {
+  background-image: url("/assets/logos/microlink.png"); }
+
+.img-37 {
+  background-image: url("/assets/logos/moneylion.png"); }
+
+.img-38 {
+  background-image: url("/assets/logos/moo_commerce.png"); }
+
+.img-39 {
+  background-image: url("/assets/logos/mybumpmedia.png"); }
+
+.img-40 {
+  background-image: url("/assets/logos/nex_platform.png"); }
+
+.img-41 {
+  background-image: url("/assets/logos/nintex.png"); }
+
+.img-42 {
+  background-image: url("/assets/logos/photobook.png"); }
+
+.img-43 {
+  background-image: url("/assets/logos/piktochart.png"); }
+
+.img-44 {
+  background-image: url("/assets/logos/pocket_pixel.png"); }
+
+.img-45 {
+  background-image: url("/assets/logos/public_bank.png"); }
+
+.img-46 {
+  background-image: url("/assets/logos/quintiq.png"); }
+
+.img-47 {
+  background-image: url("/assets/logos/runningman.png"); }
+
+.img-48 {
+  background-image: url("/assets/logos/seek_asia.png"); }
+
+.img-49 {
+  background-image: url("/assets/logos/service_rocket.png"); }
+
+.img-50 {
+  background-image: url("/assets/logos/snappymob.png"); }
+
+.img-51 {
+  background-image: url("/assets/logos/sys_catech.png"); }
+
+.img-52 {
+  background-image: url("/assets/logos/t_systems.png"); }
+
+.img-53 {
+  background-image: url("/assets/logos/tapway.png"); }
+
+.img-54 {
+  background-image: url("/assets/logos/teleme.png"); }
+
+.img-55 {
+  background-image: url("/assets/logos/tm.png"); }
+
+.img-56 {
+  background-image: url("/assets/logos/touristly.png"); }
+
+.img-57 {
+  background-image: url("/assets/logos/tribe_hired.png"); }
+
+.img-58 {
+  background-image: url("/assets/logos/tuxuri.png"); }
+
+.img-59 {
+  background-image: url("/assets/logos/werebits.png"); }
+
+.img-60 {
+  background-image: url("/assets/logos/wobb.png"); }

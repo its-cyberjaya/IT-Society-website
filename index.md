@@ -8,6 +8,9 @@ feature_text: |
 description: Empowerment through technology
 ---
 
+# About
+We are IT Society - a student-run club in MMU Cyberjaya. From time to time, we conduct programming workshops, talks, career fair events, coding competitions, and unconferences such as BarCamp.
+
 # Vision
 
 To empower students as active practitioners of information technology and to represent all FCI students.

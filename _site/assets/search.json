@@ -27,34 +27,6 @@
         "url": "/general/2018/08/22/hello-world/"
       },
     
-      {
-        "title": "Lorem Ipsum 2",
-        "excerpt": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
-        "content": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
-        "url": "/general/2019/03/10/lorem-ipsum-2/"
-      },
-    
-      {
-        "title": "Drooltip.js",
-        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Varius vel pharetra vel turpis nunc. Aliquam eleifend mi in nulla. Facilisis gravida neque convallis a cras semper auctor neque vitae. Neque vitae tempus quam pellentesque nec.\n",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Varius vel pharetra vel turpis nunc. Aliquam eleifend mi in nulla. Facilisis gravida neque convallis a cras semper auctor neque vitae. Neque vitae tempus quam pellentesque nec.\n",
-        "url": "/madebystudents/2019/03/23/Drooltip.js/"
-      },
-    
-      {
-        "title": "Mmu Timetabler",
-        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Varius vel pharetra vel turpis nunc. Aliquam eleifend mi in nulla. Facilisis gravida neque convallis a cras semper auctor neque vitae. Neque vitae tempus quam pellentesque nec.\n",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Varius vel pharetra vel turpis nunc. Aliquam eleifend mi in nulla. Facilisis gravida neque convallis a cras semper auctor neque vitae. Neque vitae tempus quam pellentesque nec.\n",
-        "url": "/madebystudents/2019/04/21/MMU-Timetabler/"
-      },
-    
-      {
-        "title": "Lorem Ipsum",
-        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n",
-        "url": "/random/events/2019/05/16/Lorem-ipsum/"
-      },
-    
   
   
   
@@ -96,7 +68,7 @@
   {
     "title": "Home",
     "excerpt": "\n",
-    "content": "Vision\n\nTo empower students as active practitioners of information technology and to represent all FCI students.\n\nMission\nOur mission is to:\n\n\n  Cultivate a hacking and startup culture in the campus.\n  Better equip students with the IT skills required for the job market of today and tomorrow.\n  Be the platform for students to connect with the industry at large.\n  Act as a bridge between FCI and its students.\n  Fight for the welfare and interests of FCI students.\n\n",
+    "content": "About\nWe are IT Society - a student-run club in MMU Cyberjaya. From time to time, we conduct programming workshops, talks, career fair events, coding competitions, and unconferences such as BarCamp.\n\nVision\n\nTo empower students as active practitioners of information technology and to represent all FCI students.\n\nMission\nOur mission is to:\n\n\n  Cultivate a hacking and startup culture in the campus.\n  Better equip students with the IT skills required for the job market of today and tomorrow.\n  Be the platform for students to connect with the industry at large.\n  Act as a bridge between FCI and its students.\n  Fight for the welfare and interests of FCI students.\n\n",
     "url": "/"
   },
   
