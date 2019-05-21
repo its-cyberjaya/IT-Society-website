@@ -1,8 +1,8 @@
-const version = '20190521174320';
+const version = '20190521231034';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/general/2015/09/16/Ruby-on-Rails-Workshop/","/tutorial/2015/09/16/How-To-Validate-Google-Forms/","/events/2015/09/05/Polymer-Summit-Extended-2015/","/events/2015/08/19/Microsot-Azure-workshop/","/events/2015/08/18/RESTful-API-with-Laravel-workshop/","/events/2015/08/16/Startup-Featurette/","/general/2015/08/13/conduct-your-workshop-with-IT-Society/","/general/2015/08/07/initial-commit/","/about/","/categories/","/elements/","/blog/","/contact/","/events/","/join/","/partners/","/MadeByStudents/","/","/manifest.json","/assets/search.json","/search/","/assets/styles.css","/redirects.json","/blog/page2/","/feed.xml","/sitemap.xml","/robots.txt","", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/events/2018/12/23/Blockchain-&-Crytocurrency-Talk/","/events/2018/12/22/FCI-Jumpstart-Orientation-2018/","/general/2017/09/17/Binary-Hackathon/","/events/2017/06/30/Google-Ignite-2017/","/events/2017/01/04/IT-Career-Week-2017/","/events/2017/01/03/Tech-Talk-Thursday-11/","/events/2017/01/03/Tech-Talk-Thursday-10/","/events/2017/01/02/Tech-Talk-Thursday-9/","/events/2017/01/02/Tech-Talk-Thursday-8/","/events/2017/01/02/Tech-Talk-Thursday-7/","/about/","/categories/","/elements/","/blog/","/contact/","/events/","/join/","/partners/","/MadeByStudents/","/","/manifest.json","/assets/search.json","/search/","/assets/styles.css","/redirects.json","/blog/page2/","/blog/page3/","/blog/page4/","/blog/page5/","/blog/page6/","/feed.xml","/sitemap.xml","/robots.txt","", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

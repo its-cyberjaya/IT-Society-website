@@ -1,296 +1,200 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-21T17:43:20+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">IT Society</title><subtitle>Empowerment through technology</subtitle><entry><title type="html">Ruby On Rails Workshop</title><link href="http://localhost:4000/general/2015/09/16/Ruby-on-Rails-Workshop/" rel="alternate" type="text/html" title="Ruby On Rails Workshop" /><published>2015-09-16T00:00:00+08:00</published><updated>2015-09-16T00:00:00+08:00</updated><id>http://localhost:4000/general/2015/09/16/Ruby-on-Rails-Workshop</id><content type="html" xml:base="http://localhost:4000/general/2015/09/16/Ruby-on-Rails-Workshop/">&lt;p&gt;As many are aware, our team ran a introduction to web development on PHP earlier in the trimester. The whole idea was to:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;provide a gentle introductory path into web development, and&lt;/li&gt;
-  &lt;li&gt;to empower our peers with a the ability to actually build with what they have learned.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Based on attendance at our self-hack sessions, conversations with participants and the feedback from, we may have accomplished some of (1) but very little of (2). In order to truly make a difference for our participants, the next workshop would need to see a major change in format.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Next Up: Ruby on Rails&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Our next workshop is going to be for Ruby on Rails. It is probably the most popular web frameworks of the day, especially for rapid prototyping web applications. For this, we are thinking of several important changes to the format:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;small group format&lt;/li&gt;
-  &lt;li&gt;immediate hands on and application&lt;/li&gt;
-  &lt;li&gt;a commitment deposit&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Small Group Format&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Our previous workshop was run as a class. We tried to improve from session to session. First we only talked. Next we provided a live transcript. We followed that up in sessions 3 and 4 with a written tutorial instead. What we found was that the workshop turned somewhat into a code demo. Participants could try out and follow the examples, and received assistance to do so, but they didn’t have much opportunity to tinker with the code itself. We believe the latter to be the most important thing.&lt;/p&gt;
-
-&lt;p&gt;As such for the rails workshop, we plan to split participants into &lt;strong&gt;small groups of 5&lt;/strong&gt;, where they will &lt;strong&gt;work through material with a mentor&lt;/strong&gt; during the session instead of a single instructor in a classroom/lecture setting. The mentor will also have the additional role of providing guidance to participants when they attempt to put what they have learned into practice, which leads us to…&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Apply Immediately&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The previous workshop suggested that the participants should attempt at home a more challenging suggested exercise presented at the end of the class. We offered a separate session where participants can meet their mentors for further guidance, but that is right before the next workshop. We get it – it’s a little intimidating to get started figuring code out by yourself, especially when you were just rushed through two hours of code.&lt;/p&gt;
-
-&lt;p&gt;Other than identifying a specific mentor they will be working with in a particular session, we plan to &lt;strong&gt;split the content to 1 hour chunks&lt;/strong&gt;, with the following 1 hour focused on helping the workshop participant &lt;strong&gt;apply what they just learnt to their own project/idea&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Overall there would be &lt;strong&gt;2 sessions a week for 3 weeks&lt;/strong&gt;, each taking up 2 hours. With a mentor by their side and ready assistance when they hit road blocks, we believe this format will give a bigger impact to actually empowering our participants with the needed deep understanding of the content.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Commitment Deposit&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The last idea is the most radical one – we’re students. We know ourselves well. It is easy to have a rosy dream at the start, but when things start getting a little tough, quitting is just … so easy. 🙂 So this is an opportunity for each participant to give themselves a little incentive to tough it out till the end.&lt;/p&gt;
-
-&lt;p&gt;The idea is for each participant to pay a commitment fee which will be returned to the participant by the end of the workshop, assuming that they have completed their self-declared goals/projects. Participants who fail to complete the goal forfeit this deposit (which we’ll probably put into a nice makan session for those who stuck with it till the end.)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;This is not a fee&lt;/strong&gt;. We don’t want your money, and we’re still doing this for free. &lt;strong&gt;It’s a self-motivation deposit&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Other Carrots&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;We’re working out what kind of collaboration we can set up with people from the industry, in the form of industry judges for the final project presentation, or internship opportunities as prizes for winning participants. We’re also working out if we can allow students to claim assignment credit using the project they built in our workshop for the Web Development subject to be offered next trimester.&lt;/p&gt;
-
-&lt;p&gt;Both of these are ideas which would require collaboration from other parties, so they may or may not be in the final workshop setup.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;We Want Your Feedback!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;So that’s the gist of what we have in mind for our next workshop. Do you have any feedback or suggestions? Let us know in the comments below!&lt;/p&gt;</content><author><name>Lee Zhen Yong</name></author><summary type="html">As many are aware, our team ran a introduction to web development on PHP earlier in the trimester. The whole idea was to:</summary></entry><entry><title type="html">How To Validate Google Forms</title><link href="http://localhost:4000/tutorial/2015/09/16/How-To-Validate-Google-Forms/" rel="alternate" type="text/html" title="How To Validate Google Forms" /><published>2015-09-16T00:00:00+08:00</published><updated>2015-09-16T00:00:00+08:00</updated><id>http://localhost:4000/tutorial/2015/09/16/How-To-Validate-Google-Forms</id><content type="html" xml:base="http://localhost:4000/tutorial/2015/09/16/How-To-Validate-Google-Forms/">&lt;figure class=&quot;figure  figure--center&quot;&gt;
-  &lt;img class=&quot;image&quot; src=&quot;/post-images/5.png&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-21T23:10:34+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">IT Society</title><subtitle>Empowerment through technology</subtitle><entry><title type="html">Blockchain &amp;amp; Crytocurrency Talk</title><link href="http://localhost:4000/events/2018/12/23/Blockchain-&-Crytocurrency-Talk/" rel="alternate" type="text/html" title="Blockchain &amp; Crytocurrency Talk" /><published>2018-12-23T00:00:00+08:00</published><updated>2018-12-23T00:00:00+08:00</updated><id>http://localhost:4000/events/2018/12/23/Blockchain-&amp;-Crytocurrency-Talk</id><content type="html" xml:base="http://localhost:4000/events/2018/12/23/Blockchain-&amp;-Crytocurrency-Talk/">&lt;figure class=&quot;figure  figure--center&quot;&gt;
+  &lt;img class=&quot;image&quot; src=&quot;/post-images/44.png&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
   
 &lt;/figure&gt;
 
-&lt;p&gt;MMU students &lt;strong&gt;love&lt;/strong&gt; Google Forms. Final year students use it to conduct surveys. Clubs and societies use it to sign up event attendees.&lt;/p&gt;
+&lt;p&gt;Blockchain &amp;amp; Cryptocurrency Talk was presented by fellow alumni of FCI and founder of TriveAcademy, Tan Ji Sheng on the 4th of December 2018. The talk was held from 8.00-10.00p.m at CNMX1004.&lt;/p&gt;
 
-&lt;p&gt;But, there is a problem with the phone number field. You see, if the user fills in the phone number, with a leading zero, but without a dash, Google Sheets treats it as number and will not keep the leading zero.&lt;/p&gt;
+&lt;p&gt;An estimated 25 students attended the Tuesday night talk.&lt;/p&gt;
+
+&lt;p&gt;The talk featured an introduction to blockchain technology and cryptocurrency. The talk then progressed to current trends and developments in the field of blockchain and cryptocurrency.&lt;/p&gt;
+
+&lt;p&gt;The floor was opened for a Q&amp;amp;A session before the talk came to an end with subsequent post-talk discussions.&lt;/p&gt;</content><author><name>Evangelista Grace</name></author><summary type="html">Blockchain &amp;amp; Cryptocurrency Talk was presented by fellow alumni of FCI and founder of TriveAcademy, Tan Ji Sheng on the 4th of December 2018. The talk was held from 8.00-10.00p.m at CNMX1004.</summary></entry><entry><title type="html">Fci Jumpstart Orientation 2018</title><link href="http://localhost:4000/events/2018/12/22/FCI-Jumpstart-Orientation-2018/" rel="alternate" type="text/html" title="Fci Jumpstart Orientation 2018" /><published>2018-12-22T00:00:00+08:00</published><updated>2018-12-22T00:00:00+08:00</updated><id>http://localhost:4000/events/2018/12/22/FCI-Jumpstart-Orientation-2018</id><content type="html" xml:base="http://localhost:4000/events/2018/12/22/FCI-Jumpstart-Orientation-2018/">&lt;figure class=&quot;figure  figure--center&quot;&gt;
+  &lt;img class=&quot;image&quot; src=&quot;/post-images/40.png&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;FCI Jumpstart Orientation 2018 was held on the 1st of December 2018 at Multipurpose Hall, MMU Cyberjaya. The program targeted students of the Faculty of Computing and Informatics(FCI) who were in their Pre-U studies(foundation/diploma) as well as first year undergraduate students. The program aimed to provide to students a basic outlook at study life in FCI and to expose to them the current industrial expectations and needs of IT graduates.&lt;/p&gt;
+
+&lt;p&gt;A total of 30 participants attended the program along with 7 committee members and volunteers. The program included various agenda that centered around coding tutorials and senior sharing sessions. Among the program highlights were Introductory Coding Class, Fireside Chat with Alumni, and Live Coding Session.&lt;/p&gt;
 
 &lt;figure class=&quot;figure  figure--center&quot;&gt;
-  &lt;img class=&quot;image&quot; src=&quot;/post-images/6.png&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
-  
+  &lt;img class=&quot;image&quot; src=&quot;/post-images/41.png&quot; alt=&quot;Introductory Coding Class by Yong Yaw Yeo&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
+  &lt;figcaption class=&quot;caption&quot;&gt;Introductory Coding Class by Yong Yaw Yeo&lt;/figcaption&gt;
 &lt;/figure&gt;
-
-&lt;p&gt;Where’s the leading zero?&lt;/p&gt;
-
-&lt;p&gt;That’s not just it, where there is no validation, expect to see all kinds of phone numbers in your responses.&lt;/p&gt;
 
 &lt;figure class=&quot;figure  figure--center&quot;&gt;
-  &lt;img class=&quot;image&quot; src=&quot;/post-images/7.png&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
+  &lt;img class=&quot;image&quot; src=&quot;/post-images/42.png&quot; alt=&quot;Fireside Chat with Alumni hosted by Jacklyn&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
+  &lt;figcaption class=&quot;caption&quot;&gt;Fireside Chat with Alumni hosted by Jacklyn&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Participants were introduced to basic programming concepts and also the fundamentals of web development during Introductory Coding Class. At the end of the class, participants were given a few sets of programming questions to test their problem solving skills. In Fireside Chat with Alumni, participants had the opportunity to gain first-hand advice and insights from a panel of seniors and alumni who have had experience working in the field.&lt;/p&gt;
+
+&lt;p&gt;The program ended with Live Coding Session, where students were engaged in a series of live coding for back-end web development using Ruby on Rails which was demonstrated by fellow alumni, Anonoz Chong and Laravel that was demonstrated by fellow senior, Shaun Goh.&lt;/p&gt;</content><author><name>Evangelista</name></author><summary type="html">FCI Jumpstart Orientation 2018 was held on the 1st of December 2018 at Multipurpose Hall, MMU Cyberjaya. The program targeted students of the Faculty of Computing and Informatics(FCI) who were in their Pre-U studies(foundation/diploma) as well as first year undergraduate students. The program aimed to provide to students a basic outlook at study life in FCI and to expose to them the current industrial expectations and needs of IT graduates.</summary></entry><entry><title type="html">Binary Hackathon</title><link href="http://localhost:4000/general/2017/09/17/Binary-Hackathon/" rel="alternate" type="text/html" title="Binary Hackathon" /><published>2017-09-17T00:00:00+08:00</published><updated>2017-09-17T00:00:00+08:00</updated><id>http://localhost:4000/general/2017/09/17/Binary-Hackathon</id><content type="html" xml:base="http://localhost:4000/general/2017/09/17/Binary-Hackathon/">&lt;figure class=&quot;figure  figure--center&quot;&gt;
+  &lt;img class=&quot;image&quot; src=&quot;/post-images/39.png&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;&quot; /&gt;
   
 &lt;/figure&gt;
 
-&lt;p&gt;You don’t want to see this right? Thank god we can do something about it, we are going to use Google Forms’ &lt;strong&gt;data validation.&lt;/strong&gt; Here’s how you do it:&lt;/p&gt;
+&lt;p&gt;If you are good in coding and would like to show off your skills, good news!&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Click on the form field you want to validate.&lt;/li&gt;
-  &lt;li&gt;Expand &lt;strong&gt;Advanced Settings&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;Check &lt;strong&gt;Data Validation&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;Select &lt;strong&gt;Regular Expression&lt;/strong&gt;, &lt;strong&gt;matches,&lt;/strong&gt; and type &lt;strong&gt;0\d{1,3}-\d{7,9}&lt;/strong&gt; (this matches typical Malaysian phone numbers).&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;Binary Group Services is organizing a Hackathon Competition on the 30th September 2017 (Saturday) from 9:30 am to 7:00 pm at its headquarters in Cyberjaya.&lt;/p&gt;
 
-&lt;p&gt;This is how it should look like:&lt;/p&gt;
+&lt;p&gt;The question will be revealed on the day itself and you can solve it using the programming language of your choice. You will be contending with other participants and graded individually. However, you are welcome to discuss your ideas with your friends and our team of proctors who will be available on-site.&lt;/p&gt;
 
-&lt;figure class=&quot;figure  figure--center&quot;&gt;
-  &lt;img class=&quot;image&quot; src=&quot;/post-images/8.png&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
+&lt;p&gt;Prizes include cash and a full time or internship opportunity with Binary Group Services! Apart from the prizes, you will get to take a tour of our awesome office, meet our developers and senior management team, share your skills and knowledge with them and other participants too!&lt;/p&gt;
+
+&lt;p&gt;Food and beverage will be provided.&lt;/p&gt;
+
+&lt;p&gt;You will only need to bring your laptop on that day.&lt;/p&gt;
+
+&lt;p&gt;You may use any programming language that you are proficient in.&lt;/p&gt;
+
+&lt;p&gt;Registration is FREE! If you wish to register, please click the below link:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSfiVU7zo_ldaBpx32xXi6PM25Ev3VhEA_bVyNB94utcESXAGw/viewform&quot;&gt;click here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Do visit the website for further information and if you need any more clarifications, please do email hackathon@binary.com&lt;/p&gt;</content><author><name>Ng Weng Hong</name></author><summary type="html">If you are good in coding and would like to show off your skills, good news!</summary></entry><entry><title type="html">Google Ignite 2017</title><link href="http://localhost:4000/events/2017/06/30/Google-Ignite-2017/" rel="alternate" type="text/html" title="Google Ignite 2017" /><published>2017-06-30T00:00:00+08:00</published><updated>2017-06-30T00:00:00+08:00</updated><id>http://localhost:4000/events/2017/06/30/Google-Ignite-2017</id><content type="html" xml:base="http://localhost:4000/events/2017/06/30/Google-Ignite-2017/">&lt;figure class=&quot;figure  figure--center&quot;&gt;
+  &lt;img class=&quot;image&quot; src=&quot;/post-images/38.png&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
   
 &lt;/figure&gt;
 
-&lt;p&gt;Data validation + Regular Expression = POWER OVERWHELMING&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What Is Google Ignite?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;So how about MMU Student ID? Same, but the regular expression is &lt;strong&gt;\d{10}&lt;/strong&gt;. This regular expression matches anything with 10 digits.&lt;/p&gt;
+&lt;p&gt;Google Ignite is a training-to-internship program targeted to students who will later on be likely to pursue a career in digital marketing.&lt;/p&gt;
 
-&lt;p&gt;This is how your form should be like after you implemented data validation with regex:&lt;/p&gt;
+&lt;p&gt;In 2016, more than 260 students managed to intern at top companies in Malaysia. Add value to your resume with a Google AdWords Certificate, and be recognised by companies worldwide, allowing you to gain valuable training and skills in the digital marketing field.&lt;/p&gt;
 
-&lt;figure class=&quot;figure  figure--center&quot;&gt;
-  &lt;img class=&quot;image&quot; src=&quot;/post-images/9.png&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
+&lt;p&gt;If you join, you will be trained in how to use Google AdWords, which is Google’s main online advertising platform. All the internships will be related to digital marketing, so you must be interested in digital marketing to get the most out of the program&lt;/p&gt;
+
+&lt;p&gt;For more information, please refer to the document below&lt;br /&gt;
+&lt;a href=&quot;https://www.itsociety.rocks/wp-content/uploads/2017/06/Google-Ignite-University-Playbook.pdf&quot;&gt;Google Ignite- University Playbook&lt;br /&gt;
+&lt;/a&gt;&lt;a href=&quot;https://www.itsociety.rocks/wp-content/uploads/2017/06/FAQForGoogleIgnite2017Website.pdf&quot;&gt;FAQForGoogleIgnite2017Website&lt;/a&gt;&lt;/p&gt;</content><author><name>Ng Weng Hong</name></author><summary type="html">What Is Google Ignite?</summary></entry><entry><title type="html">It Career Week 2017</title><link href="http://localhost:4000/events/2017/01/04/IT-Career-Week-2017/" rel="alternate" type="text/html" title="It Career Week 2017" /><published>2017-01-04T00:00:00+08:00</published><updated>2017-01-04T00:00:00+08:00</updated><id>http://localhost:4000/events/2017/01/04/IT-Career-Week-2017</id><content type="html" xml:base="http://localhost:4000/events/2017/01/04/IT-Career-Week-2017/">&lt;figure class=&quot;figure  figure--center&quot;&gt;
+  &lt;img class=&quot;image&quot; src=&quot;/post-images/37.png&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
   
 &lt;/figure&gt;
 
-&lt;p&gt;IT Society is organising a trip to Penang on 12th – 15th November 2015. We will be visiting lots of tech companies based there, such as Intel, ViTrox, Exabytes and so on. Not to mention we will embark on night time halal food adventure to find all the best foods in Penang. &lt;a href=&quot;https://www.itsociety.rocks/events/2015/learning-trip-penang-2015-tentative-agenda/&quot;&gt;Learn more about the trip.&lt;/a&gt;&lt;/p&gt;</content><author><name>Anonoz Chong</name></author><summary type="html">MMU students love Google Forms. Final year students use it to conduct surveys. Clubs and societies use it to sign up event attendees.</summary></entry><entry><title type="html">Polymer Summit Extended 2015</title><link href="http://localhost:4000/events/2015/09/05/Polymer-Summit-Extended-2015/" rel="alternate" type="text/html" title="Polymer Summit Extended 2015" /><published>2015-09-05T00:00:00+08:00</published><updated>2015-09-05T00:00:00+08:00</updated><id>http://localhost:4000/events/2015/09/05/Polymer-Summit-Extended-2015</id><content type="html" xml:base="http://localhost:4000/events/2015/09/05/Polymer-Summit-Extended-2015/">&lt;figure class=&quot;figure  figure--center&quot;&gt;
-  &lt;img class=&quot;image&quot; src=&quot;/post-images/4.png&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.polymer-project.org/&quot;&gt;Polymer&lt;/a&gt;. The Polymer library is designed to make it easier and faster for developers to create great, reusable components for the modern web.&lt;/p&gt;
-
-&lt;p&gt;This September, the very first &lt;a href=&quot;https://www.polymer-project.org/summit/&quot;&gt;Polymer Summit&lt;/a&gt; will held at Amsterdam, Netherlands from 14 to 15 September 2015.&lt;/p&gt;
-
-&lt;p&gt;On 15 September 2015, IT Society invite you to join Polymer Summit Extended 2015 MMU Cyberjaya and watch the livestream together.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Schedule&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;2:30PM – Check-in&lt;br /&gt;
-2:45PM – [TALK] What is Polymer?&lt;br /&gt;
-3:00PM – [LIVESTREAM] Opening Keynote&lt;br /&gt;
-3:30PM – [LIVESTREAM] Using Vanilla Polymer aka Building Apps with Polymer&lt;br /&gt;
-4:00PM – [LIVESTREAM] End to End with Polymer&lt;br /&gt;
-4:30PM – Departure&lt;/p&gt;
+&lt;p&gt;IT Career Week is annual event that organized by IT Society MMU Cyberjaya, IT Career Week ’17 is an annual tech job fair aiming to address the need of startups as well as tech companies to find tech talents &amp;amp; raise brand awareness, while at the same time helping students to land a job/internship and explore their career path in IT industry.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Event Details&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Date: 15 Sep 2015 (Tue)&lt;br /&gt;
-Time: 2.30PM – 4.30PM&lt;br /&gt;
-Venue: FCI Lecture Hall&lt;/p&gt;
+&lt;p&gt;When: 4th – 5th January 2017&lt;/p&gt;
 
-&lt;p&gt;Admission is free! Get your ticket on &lt;a href=&quot;https://goo.gl/XEiQYj&quot;&gt;http://goo.gl/XEiQYj&lt;/a&gt;&lt;/p&gt;</content><author><name>Henry Lim</name></author><summary type="html">Polymer. The Polymer library is designed to make it easier and faster for developers to create great, reusable components for the modern web.</summary></entry><entry><title type="html">Microsot Azure Workshop</title><link href="http://localhost:4000/events/2015/08/19/Microsot-Azure-workshop/" rel="alternate" type="text/html" title="Microsot Azure Workshop" /><published>2015-08-19T00:00:00+08:00</published><updated>2015-08-19T00:00:00+08:00</updated><id>http://localhost:4000/events/2015/08/19/Microsot-Azure-workshop</id><content type="html" xml:base="http://localhost:4000/events/2015/08/19/Microsot-Azure-workshop/">&lt;figure class=&quot;figure  figure--center&quot;&gt;
-  &lt;img class=&quot;image&quot; src=&quot;/post-images/3.png&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
+&lt;p&gt;Where: Multipurpose Hall, MMU Cyberjaya&lt;/p&gt;
+
+&lt;p&gt;$$: Free for all!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://itcareerweek.org/&quot;&gt;More details on itcareerweek.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itcwresume.herokuapp.com&quot;&gt;Submit your resume here&lt;/a&gt;&lt;/p&gt;</content><author><name>Ng Weng Hong</name></author><summary type="html">IT Career Week is annual event that organized by IT Society MMU Cyberjaya, IT Career Week ’17 is an annual tech job fair aiming to address the need of startups as well as tech companies to find tech talents &amp;amp; raise brand awareness, while at the same time helping students to land a job/internship and explore their career path in IT industry.</summary></entry><entry><title type="html">Tech Talk Thursday #11</title><link href="http://localhost:4000/events/2017/01/03/Tech-Talk-Thursday-11/" rel="alternate" type="text/html" title="Tech Talk Thursday #11" /><published>2017-01-03T00:00:00+08:00</published><updated>2017-01-03T00:00:00+08:00</updated><id>http://localhost:4000/events/2017/01/03/Tech-Talk-Thursday-#11</id><content type="html" xml:base="http://localhost:4000/events/2017/01/03/Tech-Talk-Thursday-11/">&lt;figure class=&quot;figure  figure--center&quot;&gt;
+  &lt;img class=&quot;image&quot; src=&quot;/post-images/36.png&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
   
 &lt;/figure&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://azure.microsoft.com&quot;&gt;Microsoft Azure&lt;/a&gt; is one of the many cloud computing platforms and infrastructures out there right now. Azure provides both PaaS (Platform as a service) and IaaS (Infrastructure as a service) to its customers.&lt;/p&gt;
+&lt;p&gt;We will be having Ditesh Gathani, the director of engineering at Grab (yes THAT app you used to get your GrabCars), to share about the technologies they are using and building in Grab.&lt;/p&gt;
 
-&lt;p&gt;IT Society has collaborated with Microsoft Student Partners to invite Aswin C., a Microsoft Technical Evangelist to conduct this workshop.&lt;/p&gt;
+&lt;p&gt;Several members of the Grab engineering team will be coming over all the way from lion city and joining us in IT Career Week on 4th – 5th January. If you are interested in them, you better come!&lt;/p&gt;
 
-&lt;p&gt;We will be learning how to build and deploy cloud applications on Windows Azure, and use it with Universal Apps that run across all Windows PC and Windows Phone devices.&lt;/p&gt;
+&lt;p&gt;This event is open for PUBLIC.&lt;br /&gt;
+Don’t miss your opportunity and spend your evening with Grab !&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Event Details&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the talks&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Date: 11 Sep 2015 (Fri)&lt;br /&gt;
-Time: 2.30PM – 5.30PM&lt;br /&gt;
-Venue: CQ AR3006 (Microsoft .NET Lab)&lt;/p&gt;
-
-&lt;p&gt;Admission is free!&lt;/p&gt;
-
-&lt;p&gt;No registration required. Stay updated through our &lt;a href=&quot;https://www.facebook.com/events/857574810964488/&quot;&gt;Facebook event page&lt;/a&gt;.&lt;/p&gt;</content><author><name>Joey Cheng</name></author><summary type="html">Microsoft Azure is one of the many cloud computing platforms and infrastructures out there right now. Azure provides both PaaS (Platform as a service) and IaaS (Infrastructure as a service) to its customers.</summary></entry><entry><title type="html">Restful Api With Laravel Workshop</title><link href="http://localhost:4000/events/2015/08/18/RESTful-API-with-Laravel-workshop/" rel="alternate" type="text/html" title="Restful Api With Laravel Workshop" /><published>2015-08-18T00:00:00+08:00</published><updated>2015-08-18T00:00:00+08:00</updated><id>http://localhost:4000/events/2015/08/18/RESTful-API-with-Laravel-workshop</id><content type="html" xml:base="http://localhost:4000/events/2015/08/18/RESTful-API-with-Laravel-workshop/">&lt;p&gt;&lt;a href=&quot;http://laravel.com&quot;&gt;Laravel&lt;/a&gt; is a framework which makes web development using PHP easier, and better. It is basically (and arguably) the current industry standard.&lt;/p&gt;
-
-&lt;p&gt;The Chief Technology Officer of &lt;a href=&quot;http://www.nuffnang.com.my/&quot;&gt;Nuffnang Malaysia&lt;/a&gt; and MMU alumni – Timothy Teoh – have graciously offered to run this workshop for us. We will be learning how to use the built-in REST features, and expand on them to quickly build a practical API.&lt;/p&gt;
-
-&lt;p&gt;This workshop will be held on 2 consecutive nights, 2 hours per session. Participants must attend both sessions, as the second session is a continuation of the first session.&lt;/p&gt;
-
-&lt;p&gt;Participant Requirements:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A working laptop&lt;/li&gt;
-  &lt;li&gt;Basic understanding of PHP (how variables, classes and arrays work)&lt;/li&gt;
-  &lt;li&gt;Basic understanding of MySQL (how tables relate to each other)&lt;/li&gt;
-  &lt;li&gt;(Optional) Basic understanding of Git&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Tech Talk Thursdays is a series of talks and workshops organized by IT Society MMU Cyberjaya. We invite experts from the industry and academia to share with the students about the latest technology trends.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Event Details&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Date: 26 Aug 2015 (Wed) – 27 Aug 2015 (Thu)&lt;br /&gt;
-Time: 08.00PM – 10.00PM&lt;br /&gt;
-Venue: CQ CR3001 (FCI)&lt;/p&gt;
-
-&lt;p&gt;Admission is free!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/504718203024703/&quot;&gt;Facebook event page&lt;/a&gt;&lt;/p&gt;</content><author><name>Joey Cheng</name></author><summary type="html">Laravel is a framework which makes web development using PHP easier, and better. It is basically (and arguably) the current industry standard.</summary></entry><entry><title type="html">Startup Featurette</title><link href="http://localhost:4000/events/2015/08/16/Startup-Featurette/" rel="alternate" type="text/html" title="Startup Featurette" /><published>2015-08-16T00:00:00+08:00</published><updated>2015-08-16T00:00:00+08:00</updated><id>http://localhost:4000/events/2015/08/16/Startup-Featurette</id><content type="html" xml:base="http://localhost:4000/events/2015/08/16/Startup-Featurette/">&lt;figure class=&quot;figure  figure--center&quot;&gt;
-  &lt;img class=&quot;image&quot; src=&quot;/post-images/2.png&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
+&lt;p&gt;Venue: FCI Lecture Hall MMU Cyberjaya&lt;br /&gt;
+Date: 5th January 2017 (Thursday)&lt;br /&gt;
+Time: 7p.m. – 8p.m.&lt;br /&gt;
+Ticketing: &lt;a href=&quot;https://ttt11-grab.eventbrite.com/?aff=facebook&quot;&gt;Get your ticket at Eventbrite&lt;/a&gt;&lt;/p&gt;</content><author><name>Ying Hua Chai</name></author><summary type="html">We will be having Ditesh Gathani, the director of engineering at Grab (yes THAT app you used to get your GrabCars), to share about the technologies they are using and building in Grab.</summary></entry><entry><title type="html">Tech Talk Thursday #10</title><link href="http://localhost:4000/events/2017/01/03/Tech-Talk-Thursday-10/" rel="alternate" type="text/html" title="Tech Talk Thursday #10" /><published>2017-01-03T00:00:00+08:00</published><updated>2017-01-03T00:00:00+08:00</updated><id>http://localhost:4000/events/2017/01/03/Tech-Talk-Thursday-#10</id><content type="html" xml:base="http://localhost:4000/events/2017/01/03/Tech-Talk-Thursday-10/">&lt;figure class=&quot;figure  figure--center&quot;&gt;
+  &lt;img class=&quot;image&quot; src=&quot;/post-images/34.png&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
   
 &lt;/figure&gt;
 
-&lt;p&gt;Startup Featurette presents to you a short one-night event where we feature 4 startups from the &lt;a href=&quot;http://accelerator.mymagic.my/en/&quot;&gt;MaGIC Accelerator Programme&lt;/a&gt; to share their stories of founding a company, as well as sharing the technologies they use and create.&lt;/p&gt;
+&lt;p&gt;Tech Talk Thursdays is a series of talks and workshops organized by IT Society MMU Cyberjaya. We invite experts from the industry and academia to share with the students about the latest technology trends.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://startupfeaturette.peatix.com&quot;&gt;&lt;strong&gt;Get Your Ticket Now&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&quot;figure  figure--center&quot;&gt;
+  &lt;img class=&quot;image&quot; src=&quot;/post-images/35.png&quot; alt=&quot;Jake Loo&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
+  &lt;figcaption class=&quot;caption&quot;&gt;Jake Loo&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;p&gt;From this event, you will be able to learn about the technologies startups use these days so that you can prepare yourself for it. Some of the startups are also hiring interns and part-timers too!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Featuring Speaker&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;The 4 startups that will be with us are:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://playmear.com/&quot;&gt;Playme AR&lt;/a&gt; – Augmented Reality DIY Creator tool that allows businesses &amp;amp; designers to easily create augmented reality experiences and campaigns.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://qtixapp.com/&quot;&gt;Qtix&lt;/a&gt; – Started by MMU students, a mobile integrated queue management system which enables users to get their queueing ticket remotely with an estimated service start time.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://borderpass.com/&quot;&gt;BorderPass&lt;/a&gt; – Expedites passengers through airports by replacing paper immigration forms with online profiles, sent to the destination country the moment a flight is booked. Pre-cleared passengers get to skip the immigration queue and use a BorderPass automated gate on arrival.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.katsana.com/&quot;&gt;Katsana&lt;/a&gt; – Advanced GPS Tracking and Fleet Management solutions via Katsana Fleet for enterprises, KATSANA Shuttle for public buses, and recently KATSANA Marine for deep-sea vessels tracking system for the O&amp;amp;G sector via Inmarsat satellites.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Jake Loo is currently working as an engineer in Bebo, primarily on Android applications. He studied in Diablo Valley College. Since then, he has worked on real-time systems that handled millions of requests per day and deployed several Android applications to the Play Store.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Event Details&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Time: 2nd September 2015 9PM – 11PM&lt;/p&gt;
-
-&lt;p&gt;Venue: FCI XR 0001&lt;/p&gt;
-
-&lt;p&gt;Price: Free&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://startupfeaturette.peatix.com&quot;&gt;&lt;strong&gt;Get Your Ticket Now&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Lee Zhen Yong</name></author><summary type="html">Startup Featurette presents to you a short one-night event where we feature 4 startups from the MaGIC Accelerator Programme to share their stories of founding a company, as well as sharing the technologies they use and create.</summary></entry><entry><title type="html">Conduct Your Workshop With It Society</title><link href="http://localhost:4000/general/2015/08/13/conduct-your-workshop-with-IT-Society/" rel="alternate" type="text/html" title="Conduct Your Workshop With It Society" /><published>2015-08-13T00:00:00+08:00</published><updated>2015-08-13T00:00:00+08:00</updated><id>http://localhost:4000/general/2015/08/13/conduct-your-workshop-with-IT-Society</id><content type="html" xml:base="http://localhost:4000/general/2015/08/13/conduct-your-workshop-with-IT-Society/">&lt;p&gt;A few weeks ago, the amateur web developers over at Hackerspace hosted a series of Intro To Web Dev classes, teaching basic HTML, CSS, PHP and MySQL.&lt;/p&gt;
-
-&lt;p&gt;By the end of the series, students were able to make a simple CRUD website with user authentication without using a framework. We did this to help students pick up web development, and hopefully after the workshop they will continue learning to code on their own, saving their asses before graduating.&lt;/p&gt;
-
-&lt;p&gt;It wasn’t the first time students took teaching their peers to their own hands, in fact before this, I have myself conducted a small one-night Git introduction, simply because I feel that version control software like Git should be in every professional programmer’s toolbox. Yet Git is not taught in FCI syllabus.&lt;/p&gt;
-
-&lt;p&gt;Students conduct workshops on their own all the time, whether they are Microsoft Student Partners, or some ambassadors from xyz inc, without taking a single cent. They did this out of altruism, out of good will.&lt;/p&gt;
-
-&lt;p&gt;In IT Society, we appreciate the things you do for the students, and we would love to help you out.&lt;/p&gt;
-
-&lt;p&gt;Tell us what and when you want to teach, and we will try our best to provide:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Venue booking&lt;/li&gt;
-  &lt;li&gt;Power extensions&lt;/li&gt;
-  &lt;li&gt;Whiteboard markers and eraser&lt;/li&gt;
-  &lt;li&gt;VGA cable&lt;/li&gt;
-  &lt;li&gt;Nano Wi-Fi Router for trainers’ stable Internet&lt;/li&gt;
-  &lt;li&gt;Event promotions&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This is not just for MMU students. If you are trainers from outside, we would love to help you out too!&lt;/p&gt;
-
-&lt;p&gt;We look forward to what you teach next. &lt;a href=&quot;mailto:itsoc.mmu@gmail.com&quot;&gt;Contact us now.&lt;/a&gt;&lt;/p&gt;</content><author><name>Anonoz Chong</name></author><summary type="html">A few weeks ago, the amateur web developers over at Hackerspace hosted a series of Intro To Web Dev classes, teaching basic HTML, CSS, PHP and MySQL.</summary></entry><entry><title type="html">Initial Commit</title><link href="http://localhost:4000/general/2015/08/07/initial-commit/" rel="alternate" type="text/html" title="Initial Commit" /><published>2015-08-07T00:00:00+08:00</published><updated>2015-08-07T00:00:00+08:00</updated><id>http://localhost:4000/general/2015/08/07/initial-commit</id><content type="html" xml:base="http://localhost:4000/general/2015/08/07/initial-commit/">&lt;figure class=&quot;figure  figure--center&quot;&gt;
-  &lt;img class=&quot;image&quot; src=&quot;/post-images/1.png&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
+&lt;p&gt;Venue: FCI Lecture Hall MMU Cyberjaya&lt;br /&gt;
+Date: 29th December 2016 (Thursday)&lt;br /&gt;
+Time: 8p.m. – 9p.m.&lt;br /&gt;
+Ticketing: &lt;a href=&quot;https://ttt10-bebo.eventbrite.com&quot;&gt;Get your ticket at Eventbrite&lt;/a&gt;&lt;/p&gt;</content><author><name>Ying Hua Chai</name></author><summary type="html">Tech Talk Thursdays is a series of talks and workshops organized by IT Society MMU Cyberjaya. We invite experts from the industry and academia to share with the students about the latest technology trends.</summary></entry><entry><title type="html">Tech Talk Thursday #7</title><link href="http://localhost:4000/events/2017/01/02/Tech-Talk-Thursday-7/" rel="alternate" type="text/html" title="Tech Talk Thursday #7" /><published>2017-01-02T00:00:00+08:00</published><updated>2017-01-02T00:00:00+08:00</updated><id>http://localhost:4000/events/2017/01/02/Tech-Talk-Thursday-#7</id><content type="html" xml:base="http://localhost:4000/events/2017/01/02/Tech-Talk-Thursday-7/">&lt;figure class=&quot;figure  figure--center&quot;&gt;
+  &lt;img class=&quot;image&quot; src=&quot;/post-images/30.png&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
   
 &lt;/figure&gt;
 
-&lt;p&gt;Change is the law of life. And those who look only to the past or present are certain to miss the future. – J. F. Kennedy&lt;/p&gt;
+&lt;p&gt;Tech Talk Thursdays is a series of talks and workshops organized by IT Society MMU Cyberjaya. We invite experts from the industry and academia to share with the students about the latest technology trends.&lt;/p&gt;
 
-&lt;p&gt;IT Society has came a long way since its inception, and every year we have been conducting various events for students to participate, as well as to act as the bridge between the faculty and the students.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the talks&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;In this term – 2015/16, we have decided to bring on a few changes to IT Society. We have revised our &lt;a href=&quot;https://www.itsociety.rocks/about/&quot;&gt;vision, direction, and club objectives&lt;/a&gt;. We have amended &lt;a href=&quot;https://www.github.com/its-cyberjaya/constitution&quot;&gt;the constitution&lt;/a&gt;. And most of all, we are more ready than ever to make MMU and FCI a better place.&lt;/p&gt;
+&lt;p&gt;In the world of business, nothing is what they appear. Among the many good people hide the treacherous hustlers waiting to exploit you. Take a wrong step and you’ll squander your hard-earned talent in a soul-crushing job. Learn how to spot dangerous people before it’s too late.&lt;/p&gt;
 
-&lt;p&gt;Here are some of the biggest changes that you should know about.&lt;/p&gt;
+&lt;p&gt;Join our talks with Y. K. Goon from &lt;a href=&quot;http://Kakitangan.com&quot;&gt;Kakitangan.com&lt;/a&gt;  and learn how to prevent people out there like Donald Trump take advantage of our talents do something unworthy of our time.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Default Membership System&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Featuring Speaker&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;IT Society’s membership is now granted, by default, to all FCI students, as well as any MMU student who agrees to &lt;a href=&quot;https://www.github.com/its-cyberjaya/constitution&quot;&gt;the new constitution&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Y.K. Goon has been programming professionally since 2002. He has been in the start up scene in various capacities. Companies he helped build include Zalora, TribeHired and &lt;a href=&quot;http://Kakitangan.com/&quot;&gt;Kakitangan.com.&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Before this, students had to pay RM 5 annual membership fee to become a “member”. But members of ITS are not involved in most events and activities, only the committees. And also, the fund raised from signing up members amount to less than 5% of the funds from STAD.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Event Details&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;So we figured the best way to move forward, is to stay true to our original identity as a faculty-based society, and abolished the paid membership system.&lt;/p&gt;
+&lt;p&gt;Venue: FCI Lecture Hall – CQMX0001&lt;br /&gt;
+Date: 1st December 2016&lt;br /&gt;
+Time: 8p.m. – 9p.m.&lt;br /&gt;
+Ticketing: &lt;a href=&quot;https://ttt7-kakitangan.eventbrite.com&quot;&gt;Get your ticket at Eventbrite&lt;/a&gt;&lt;/p&gt;</content><author><name>Ying Hua Chai</name></author><summary type="html">Tech Talk Thursdays is a series of talks and workshops organized by IT Society MMU Cyberjaya. We invite experts from the industry and academia to share with the students about the latest technology trends.</summary></entry><entry><title type="html">Tech Talk Thursday #9</title><link href="http://localhost:4000/events/2017/01/02/Tech-Talk-Thursday-9/" rel="alternate" type="text/html" title="Tech Talk Thursday #9" /><published>2017-01-02T00:00:00+08:00</published><updated>2017-01-02T00:00:00+08:00</updated><id>http://localhost:4000/events/2017/01/02/Tech-Talk-Thursday-#9</id><content type="html" xml:base="http://localhost:4000/events/2017/01/02/Tech-Talk-Thursday-9/">&lt;figure class=&quot;figure  figure--center&quot;&gt;
+  &lt;img class=&quot;image&quot; src=&quot;/post-images/32.png&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
+  
+&lt;/figure&gt;
 
-&lt;p&gt;&lt;strong&gt;New Divisions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tech Talk Thursdays is a series of talks and workshops organized by IT Society MMU Cyberjaya. We invite experts from the industry and academia to share with the students about the latest technology trends.&lt;/p&gt;
 
-&lt;p&gt;By re-examining the problems we intend to solve, we have decided to abolish the 3 old divisions, namely publicity, on-campus, and off-campus, we then formed 4 new divisions:&lt;/p&gt;
+&lt;figure class=&quot;figure  figure--center&quot;&gt;
+  &lt;img class=&quot;image&quot; src=&quot;/post-images/33.png&quot; alt=&quot;Shane Qiam&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
+  &lt;figcaption class=&quot;caption&quot;&gt;Shane Qiam&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;p&gt;&lt;strong&gt;Outreach and Awareness Division&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Featuring Speaker&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;This division is set out to raise the awareness among FCI students regarding hacker culture and the current technology industry trend of Malaysia.&lt;/p&gt;
+&lt;p&gt;Shane currently is the Tech Lead for GetDoc. He has more than a decade and a half of web development experience, primarily in the field of e-commerce. Other than IT, he also has experience setting up companies, prior joining GetDoc, he is the founder of tele-health platform: Preopinon. Shane has vast experience in web development utilizing Perl/PHP and MySQL, building and managing IT teams in Malaysia, Indonesia and Thailand, third-party vendor management, system architecture design &amp;amp; development, database management and e-commerce software development.&lt;/p&gt;
 
-&lt;p&gt;To do so, we reach out to industry people outside of campus, and then either try to bring them into our campus (like Startup Featurette event), or we bring students out to meet them (like Penang Trip).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Talks&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;We will also run a series of blog posts or podcasts to motivate students to pick up self-hacking. So they can prepare themselves for working world before they graduate.&lt;/p&gt;
+&lt;p&gt;You have a super brain that is powered by many cups of java. You have the next killer idea that will redefine the term “unicorn”. So, what’s next? Like all startup heroes, you will need your C.A.P.E. Spend your evening with Shane, a fellow techie, share his experience to help your idea grow to A-class startup hero status.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Skills Development Division&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Event Details&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;This division aims to improve FCI students’ skill set in programming and app development.&lt;/p&gt;
+&lt;p&gt;Venue: FCI Lecture Hall MMU Cyberjaya&lt;br /&gt;
+Date: 22th December 2016 (Thursday)&lt;br /&gt;
+Time: 8p.m. – 9p.m.&lt;br /&gt;
+Ticketing: &lt;a href=&quot;https://ttt9-getdoc.eventbrite.com&quot;&gt;Get your ticket at Eventbrite.&lt;/a&gt;&lt;/p&gt;</content><author><name>Ying Hua Chai</name></author><summary type="html">Tech Talk Thursdays is a series of talks and workshops organized by IT Society MMU Cyberjaya. We invite experts from the industry and academia to share with the students about the latest technology trends.</summary></entry><entry><title type="html">Tech Talk Thursday #8</title><link href="http://localhost:4000/events/2017/01/02/Tech-Talk-Thursday-8/" rel="alternate" type="text/html" title="Tech Talk Thursday #8" /><published>2017-01-02T00:00:00+08:00</published><updated>2017-01-02T00:00:00+08:00</updated><id>http://localhost:4000/events/2017/01/02/Tech-Talk-Thursday-#8</id><content type="html" xml:base="http://localhost:4000/events/2017/01/02/Tech-Talk-Thursday-8/">&lt;figure class=&quot;figure  figure--center&quot;&gt;
+  &lt;img class=&quot;image&quot; src=&quot;/post-images/31.png&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
+  
+&lt;/figure&gt;
 
-&lt;p&gt;We will be conducting workshop series soon to teach programming beyond the classroom. There will be a series of Ruby on Rails workshops coming up next trimester, and it’s free of charge for all students, so stay tuned!&lt;/p&gt;
+&lt;p&gt;Tech Talk Thursdays is a series of talks and workshops organized by IT Society MMU Cyberjaya. We invite experts from the industry and academia to share with the students about the latest technology trends.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;IT Services Division&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the talks&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Here, we make useful MMU apps for students to use, and open up APIs for students to develop on top of.&lt;/p&gt;
+&lt;p&gt;We’ve been building apps from the very beginning when smartphone operating systems decided to open up themselves to third party developers.&lt;/p&gt;
 
-&lt;p&gt;Currently, we have Hii’s &lt;a href=&quot;http://mmu-api.co/&quot;&gt;MMU API&lt;/a&gt;. We also have several projects in the pipeline, such as a simple registration system for clubs and societies in MMU. This system will allow MMU students to join partnered clubs whenever they want to, without having to wait for them to set up booth in member registration day. We believe that systems like this will greatly benefit the campus and its citizens.&lt;/p&gt;
+&lt;p&gt;What seemed to be an obscure hobby soon became a widely demanded trade and new projects kept on knocking at our doors.&lt;/p&gt;
 
-&lt;p&gt;If you are interested to join the team to make useful apps together, this is the division to be in.&lt;/p&gt;
+&lt;p&gt;From the gloriously brilliant to the downright absurd, we picked our battles and from there we’ve had the pleasure of building some really great apps for some startups that turned Unicorns like MyTeksi (Grab), iMoney, Says and more.&lt;br /&gt;
+We want to share with you the insights we’ve gained from our experiences and the lessons we’ve learned from our mistakes.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Faculty Engagement Division&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;So if you are an aspiring app developer, entrepreneur or just your regular tech geek, come spend an evening with us!&lt;/p&gt;
 
-&lt;p&gt;As the title suggests, this division is in charge of helping FCI improve by constantly communicating with them on the students’ behalf.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Event Details&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;To achieve that, the team will start to do research on the current problems (too much lecture, not enough practical, for example), check out how other universities are doing, and try to come up with a case to push for a change.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Transparency&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;We would like to be one of the most transparent and trustworthy clubs in MMU. We do that by posting our projects’ progress on &lt;a href=&quot;https://trello.com/b/7uBStwKq/it-society-cyberjaya&quot;&gt;a public Trello board&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Since every student in MMU pays RM 100 as student activities fee, we strongly believe that you deserve to know how we spend that money. So when we start to organise events or fund programmes such as app development, we will post that onto our Trello board too.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Join Us&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;There has never been a better time to join IT Society MMU Cyberjaya. Here are a few ways you can join the society:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Facebook Group&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Whether you are student, or staff, or outsiders who want to hire talents, we have create &lt;a href=&quot;https://www.facebook.com/groups/itsociety.cyberjaya/&quot;&gt;an open community on Facebook&lt;/a&gt; for you.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Committee&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Because of the sheer number of events and projects that we run, we will be needing helps, a lot of helps, even your help.&lt;/p&gt;
-
-&lt;p&gt;All 4 divisions are tackling interesting problems in the campus, figure out the ones you would like to get involved in, and check out our &lt;a href=&quot;https://www.itsociety.rocks/join-us/&quot;&gt;job openings&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;You will be working with the most passionate self-hackers in the campus, and you will learn a lot.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Have Ideas?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;If you don’t wish to commit into ITS, but you have ideas that can make things better. Don’t hesitate to let us know.&lt;/p&gt;</content><author><name>Anonoz Chong</name></author><summary type="html">Change is the law of life. And those who look only to the past or present are certain to miss the future. – J. F. Kennedy</summary></entry></feed>
+&lt;p&gt;Venue: FCI Lecture Hall MMU Cyberjaya&lt;br /&gt;
+Date: 15th December 2016 (Thursday)&lt;br /&gt;
+Time: 8p.m. – 9p.m.&lt;br /&gt;
+Ticketing: &lt;a href=&quot;https://ttt8-apptivitylab.eventbrite.com&quot;&gt;Get your ticket at Eventbrite&lt;/a&gt;&lt;/p&gt;</content><author><name>Ying Hua Chai</name></author><summary type="html">Tech Talk Thursdays is a series of talks and workshops organized by IT Society MMU Cyberjaya. We invite experts from the industry and academia to share with the students about the latest technology trends.</summary></entry></feed>
