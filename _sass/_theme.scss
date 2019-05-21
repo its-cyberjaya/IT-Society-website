@@ -112,6 +112,10 @@ body {
   font-family: FontAwesome;
   content: "\f007";
 }
+.read-more::after{
+  font-family: FontAwesome;
+  content: "\f054";
+}
 .footer {
   background: $headingColour;
   color: $white;
@@ -452,6 +456,11 @@ pre code {
 
 // Sassline overrides
 .typeset {
+  li{
+    a{
+      background-image: none;
+    }
+  }
   a > code {
     text-shadow: none;
   }
@@ -528,6 +537,7 @@ article p{
   letter-spacing: 2px;
 }
 
+
 //partners logo gallery
 .gallery{
   display: flex;
@@ -541,6 +551,7 @@ article p{
   height: 100px;
   background-size: 100px 100px;
   border: 2px solid rgba(0,0,0,.5);
+  border: none;
   margin: 5px;
   position: relative;
   display: flex;

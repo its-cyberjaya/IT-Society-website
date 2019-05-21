@@ -1282,6 +1282,10 @@ body {
   font-family: FontAwesome;
   content: "\f007"; }
 
+.read-more::after {
+  font-family: FontAwesome;
+  content: "\f054"; }
+
 .footer {
   background: #242e2b;
   color: #ffffff; }
@@ -1630,6 +1634,8 @@ pre code {
   color: #ffffff;
   text-shadow: none; }
 
+.typeset li a {
+  background-image: none; }
 .typeset a > code {
   text-shadow: none; }
 .typeset .button,
@@ -1695,6 +1701,7 @@ article p {
   height: 100px;
   background-size: 100px 100px;
   border: 2px solid rgba(0, 0, 0, 0.5);
+  border: none;
   margin: 5px;
   position: relative;
   display: flex;

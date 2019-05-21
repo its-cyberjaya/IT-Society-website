@@ -7,7 +7,8 @@
 
             <h2><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
             {% include post-meta.html %}
-            {{ page.excerpt | markdownify | truncatewords: 60 }}
+            {{ page.excerpt | markdownify | truncatewords: 50 | strip_newlines }}
+            <a class="read-more" href="{{ site.baseurl }}{{ page.url }}">Read More</a>
 
           </article>
         </li>
@@ -24,7 +25,8 @@
 
             <h2><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
             {% include post-meta.html %}
-            {{ page.excerpt | markdownify | truncatewords: 60 }}
+            {{ page.excerpt | markdownify | truncatewords: 50 }}
+            <a href="{{ site.baseurl }}{{ page.url }}">Read More >></a>
 
           </article>
         </li>
@@ -32,3 +34,4 @@
     </ul>
   </section>
 {% endif %}
+

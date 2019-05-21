@@ -1,8 +1,8 @@
-const version = '20190521033325';
+const version = '20190521174121';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/events/2019/04/20/loreem-ipsum-2/","/madebystudents/2019/02/12/lorem-ipsum/","/general/2018/08/22/hello-world/","/about/","/categories/","/elements/","/blog/","/contact/","/events/","/join/","/partners/","/MadeByStudents/","/","/manifest.json","/assets/search.json","/search/","/assets/styles.css","/redirects.json","/feed.xml","/sitemap.xml","/robots.txt","", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/general/2015/09/16/Ruby-on-Rails-Workshop/","/tutorial/2015/09/16/How-To-Validate-Google-Forms/","/events/2015/09/05/Polymer-Summit-Extended-2015/","/events/2015/08/19/Microsot-Azure-workshop/","/events/2015/08/18/RESTful-API-with-Laravel-workshop/","/events/2015/08/16/Startup-Featurette/","/general/2015/08/13/conduct-your-workshop-with-IT-Society/","/general/2015/08/07/initial-commit/","/about/","/categories/","/elements/","/blog/","/contact/","/events/","/join/","/partners/","/MadeByStudents/","/","/manifest.json","/assets/search.json","/search/","/assets/styles.css","/redirects.json","/blog/page2/","/feed.xml","/sitemap.xml","/robots.txt","", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
