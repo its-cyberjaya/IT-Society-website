@@ -1,8 +1,8 @@
-const version = '20190521231446';
+const version = '20190523135000';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/events/2018/12/23/Blockchain-&-Crytocurrency-Talk/","/events/2018/12/22/FCI-Jumpstart-Orientation-2018/","/general/2017/09/17/Binary-Hackathon/","/events/2017/06/30/Google-Ignite-2017/","/events/2017/01/04/IT-Career-Week-2017/","/events/2017/01/03/Tech-Talk-Thursday-11/","/events/2017/01/03/Tech-Talk-Thursday-10/","/events/2017/01/02/Tech-Talk-Thursday-9/","/events/2017/01/02/Tech-Talk-Thursday-8/","/events/2017/01/02/Tech-Talk-Thursday-7/","/about/","/categories/","/elements/","/blog/","/contact/","/events/","/join/","/partners/","/MadeByStudents/","/","/manifest.json","/assets/search.json","/search/","/assets/styles.css","/redirects.json","/blog/page2/","/blog/page3/","/blog/page4/","/blog/page5/","/blog/page6/","/feed.xml","/sitemap.xml","/robots.txt","", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/events/2018/12/23/Blockchain-&-Crytocurrency-Talk/","/events/2018/12/22/FCI-Jumpstart-Orientation-2018/","/general/2017/09/17/Binary-Hackathon/","/events/2017/06/30/Google-Ignite-2017/","/madebystudents/2017/04/11/Truth-Table-Generator/","/madebystudents/2017/04/11/MMU-Timetable-Google-Calendar/","/madebystudents/2017/04/11/MMU-Bulletin-Twitter/","/madebystudents/2017/04/11/Camsys-Dashboard/","/madebystudents/2017/04/10/MMU-Hub/","/madebystudents/2017/04/10/ITCW-Resume/","/about/","/categories/","/elements/","/blog/","/contact/","/events/","/join/","/partners/","/MadeByStudents/","/","/manifest.json","/assets/search.json","/search/","/assets/styles.css","/redirects.json","/blog/page2/","/blog/page3/","/blog/page4/","/blog/page5/","/blog/page6/","/blog/page7/","/blog/page8/","/feed.xml","/sitemap.xml","/robots.txt","", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

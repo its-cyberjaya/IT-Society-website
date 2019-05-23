@@ -196,6 +196,69 @@
       },
     
       {
+        "title": "Mmu Bulletin",
+        "excerpt": "A fast, responsive bulletin board for Multimedia University.\n\n",
+        "content": "A fast, responsive bulletin board for Multimedia University.\n\nTech: Firebase, Node.js, Python, HTML, CSS, JavaScript\n\nVisit Project\n",
+        "url": "/madebystudents/2017/02/08/MMU-Bulletin/"
+      },
+    
+      {
+        "title": "Remote For Google Slides",
+        "excerpt": "Remote for Google Slides is a Chrome Extension + Progressive Web App that allows you to control Google Slides on any device, remotely.\n\n",
+        "content": "Remote for Google Slides is a Chrome Extension + Progressive Web App that allows you to control Google Slides on any device, remotely.\n\nTech: Progressive Web Apps, Preact, Firebase, HTML, CSS, Javascript\n\nVisit Project\n",
+        "url": "/madebystudents/2017/02/08/Remote-for-Google-Slides/"
+      },
+    
+      {
+        "title": "Awesome Select",
+        "excerpt": "Change the style of your dropdown to beautiful dropdown with Material Animation\n\n",
+        "content": "Change the style of your dropdown to beautiful dropdown with Material Animation\n\nTech: Javascript\n\nVisit Project\n",
+        "url": "/madebystudents/2017/04/09/Awesome-Select/"
+      },
+    
+      {
+        "title": "Itcw Resume",
+        "excerpt": "Portal that allows students to upload their resumes, volunteers to filter and give feedbacks to students, and employers to access resumes wherever they want.\n\n",
+        "content": "Portal that allows students to upload their resumes, volunteers to filter and give feedbacks to students, and employers to access resumes wherever they want.\n\nTech: Ruby on Rails\n\nVisit Project\n",
+        "url": "/madebystudents/2017/04/10/ITCW-Resume/"
+      },
+    
+      {
+        "title": "Mmu Hub",
+        "excerpt": "All-in-one MMU app for Android, able to download your lecture notes and tutorials directly onto your device easily.\n\n",
+        "content": "All-in-one MMU app for Android, able to download your lecture notes and tutorials directly onto your device easily.\n\nTech: Android, Ruby on Rails (back-end API)\n\nVisit Project\n",
+        "url": "/madebystudents/2017/04/10/MMU-Hub/"
+      },
+    
+      {
+        "title": "Camsys Dashboard",
+        "excerpt": "It adds a dashboard into CaMSys which displays frequently viewed information by students, such as attendance, schedule, finance, and advisor.\n\n",
+        "content": "It adds a dashboard into CaMSys which displays frequently viewed information by students, such as attendance, schedule, finance, and advisor.\n\nTech: JavaScript\n\nVisit Project\n",
+        "url": "/madebystudents/2017/04/11/Camsys-Dashboard/"
+      },
+    
+      {
+        "title": "Mmu Bulletin Twitter",
+        "excerpt": "Post bulletin news to twitter account.\n\n",
+        "content": "Post bulletin news to twitter account.\n\nTech: Python, Beautiful Soup 4\n\nVisit Project\n",
+        "url": "/madebystudents/2017/04/11/MMU-Bulletin-Twitter/"
+      },
+    
+      {
+        "title": "Mmu Timetable Google Calendar",
+        "excerpt": "Add your class schedule from CamSYS automatically to your google calendar!\n\n",
+        "content": "Add your class schedule from CamSYS automatically to your google calendar!\n\nCredits to Raymond Choo for python web scraping backend.\n\nTech: Php, Polymer\n\nVisit Project\n",
+        "url": "/madebystudents/2017/04/11/MMU-Timetable-Google-Calendar/"
+      },
+    
+      {
+        "title": "Truth Table Generator",
+        "excerpt": "A truth table generator/comparator that parses boolean expressions in a specific notation as used in logic circuits.\n\n",
+        "content": "A truth table generator/comparator that parses boolean expressions in a specific notation as used in logic circuits.\n\nTech: C#, WinForms\n\nVisit Project\n",
+        "url": "/madebystudents/2017/04/11/Truth-Table-Generator/"
+      },
+    
+      {
         "title": "Google Ignite 2017",
         "excerpt": "\n  \n  \n\n\nWhat Is Google Ignite?\n\n",
         "content": "\n  \n  \n\n\nWhat Is Google Ignite?\n\nGoogle Ignite is a training-to-internship program targeted to students who will later on be likely to pursue a career in digital marketing.\n\nIn 2016, more than 260 students managed to intern at top companies in Malaysia. Add value to your resume with a Google AdWords Certificate, and be recognised by companies worldwide, allowing you to gain valuable training and skills in the digital marketing field.\n\nIf you join, you will be trained in how to use Google AdWords, which is Google’s main online advertising platform. All the internships will be related to digital marketing, so you must be interested in digital marketing to get the most out of the program\n\nFor more information, please refer to the document below\nGoogle Ignite- University Playbook\nFAQForGoogleIgnite2017Website\n",
@@ -308,6 +371,20 @@
     "excerpt": "\n",
     "content": "\n",
     "url": "/blog/page6/"
+  },
+  
+  {
+    "title": "blog",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/blog/page7/"
+  },
+  
+  {
+    "title": "blog",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/blog/page8/"
   }
   
 ]

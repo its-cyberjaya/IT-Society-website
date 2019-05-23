@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-21T23:14:46+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">IT Society</title><subtitle>Empowerment through technology</subtitle><entry><title type="html">Blockchain &amp;amp; Crytocurrency Talk</title><link href="http://localhost:4000/events/2018/12/23/Blockchain-&-Crytocurrency-Talk/" rel="alternate" type="text/html" title="Blockchain &amp; Crytocurrency Talk" /><published>2018-12-23T00:00:00+08:00</published><updated>2018-12-23T00:00:00+08:00</updated><id>http://localhost:4000/events/2018/12/23/Blockchain-&amp;-Crytocurrency-Talk</id><content type="html" xml:base="http://localhost:4000/events/2018/12/23/Blockchain-&amp;-Crytocurrency-Talk/">&lt;figure class=&quot;figure  figure--center&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-23T13:50:00+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">IT Society</title><subtitle>Empowerment through technology</subtitle><entry><title type="html">Blockchain &amp;amp; Crytocurrency Talk</title><link href="http://localhost:4000/events/2018/12/23/Blockchain-&-Crytocurrency-Talk/" rel="alternate" type="text/html" title="Blockchain &amp; Crytocurrency Talk" /><published>2018-12-23T00:00:00+08:00</published><updated>2018-12-23T00:00:00+08:00</updated><id>http://localhost:4000/events/2018/12/23/Blockchain-&amp;-Crytocurrency-Talk</id><content type="html" xml:base="http://localhost:4000/events/2018/12/23/Blockchain-&amp;-Crytocurrency-Talk/">&lt;figure class=&quot;figure  figure--center&quot;&gt;
   &lt;img class=&quot;image&quot; src=&quot;/post-images/44.png&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
   
 &lt;/figure&gt;
@@ -68,133 +68,30 @@
 
 &lt;p&gt;For more information, please refer to the document below&lt;br /&gt;
 &lt;a href=&quot;https://www.itsociety.rocks/wp-content/uploads/2017/06/Google-Ignite-University-Playbook.pdf&quot;&gt;Google Ignite- University Playbook&lt;br /&gt;
-&lt;/a&gt;&lt;a href=&quot;https://www.itsociety.rocks/wp-content/uploads/2017/06/FAQForGoogleIgnite2017Website.pdf&quot;&gt;FAQForGoogleIgnite2017Website&lt;/a&gt;&lt;/p&gt;</content><author><name>Ng Weng Hong</name></author><summary type="html">What Is Google Ignite?</summary></entry><entry><title type="html">It Career Week 2017</title><link href="http://localhost:4000/events/2017/01/04/IT-Career-Week-2017/" rel="alternate" type="text/html" title="It Career Week 2017" /><published>2017-01-04T00:00:00+08:00</published><updated>2017-01-04T00:00:00+08:00</updated><id>http://localhost:4000/events/2017/01/04/IT-Career-Week-2017</id><content type="html" xml:base="http://localhost:4000/events/2017/01/04/IT-Career-Week-2017/">&lt;figure class=&quot;figure  figure--center&quot;&gt;
-  &lt;img class=&quot;image&quot; src=&quot;/post-images/37.png&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
-  
-&lt;/figure&gt;
+&lt;/a&gt;&lt;a href=&quot;https://www.itsociety.rocks/wp-content/uploads/2017/06/FAQForGoogleIgnite2017Website.pdf&quot;&gt;FAQForGoogleIgnite2017Website&lt;/a&gt;&lt;/p&gt;</content><author><name>Ng Weng Hong</name></author><summary type="html">What Is Google Ignite?</summary></entry><entry><title type="html">Camsys Dashboard</title><link href="http://localhost:4000/madebystudents/2017/04/11/Camsys-Dashboard/" rel="alternate" type="text/html" title="Camsys Dashboard" /><published>2017-04-11T00:00:00+08:00</published><updated>2017-04-11T00:00:00+08:00</updated><id>http://localhost:4000/madebystudents/2017/04/11/Camsys-Dashboard</id><content type="html" xml:base="http://localhost:4000/madebystudents/2017/04/11/Camsys-Dashboard/">&lt;p&gt;It adds a dashboard into CaMSys which displays frequently viewed information by students, such as attendance, schedule, finance, and advisor.&lt;/p&gt;
 
-&lt;p&gt;IT Career Week is annual event that organized by IT Society MMU Cyberjaya, IT Career Week ’17 is an annual tech job fair aiming to address the need of startups as well as tech companies to find tech talents &amp;amp; raise brand awareness, while at the same time helping students to land a job/internship and explore their career path in IT industry.&lt;/p&gt;
+&lt;p&gt;Tech: JavaScript&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Event Details&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/mmu-camsys-dashboard/lepjdepdjclpgiknnfakgohejcljhphh?hl=en-GB&quot;&gt;Visit Project&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">It adds a dashboard into CaMSys which displays frequently viewed information by students, such as attendance, schedule, finance, and advisor.</summary></entry><entry><title type="html">Truth Table Generator</title><link href="http://localhost:4000/madebystudents/2017/04/11/Truth-Table-Generator/" rel="alternate" type="text/html" title="Truth Table Generator" /><published>2017-04-11T00:00:00+08:00</published><updated>2017-04-11T00:00:00+08:00</updated><id>http://localhost:4000/madebystudents/2017/04/11/Truth-Table-Generator</id><content type="html" xml:base="http://localhost:4000/madebystudents/2017/04/11/Truth-Table-Generator/">&lt;p&gt;A truth table generator/comparator that parses boolean expressions in a specific notation as used in logic circuits.&lt;/p&gt;
 
-&lt;p&gt;When: 4th – 5th January 2017&lt;/p&gt;
+&lt;p&gt;Tech: C#, WinForms&lt;/p&gt;
 
-&lt;p&gt;Where: Multipurpose Hall, MMU Cyberjaya&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/bruceoutdoors/TTGen/releases&quot;&gt;Visit Project&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">A truth table generator/comparator that parses boolean expressions in a specific notation as used in logic circuits.</summary></entry><entry><title type="html">Mmu Timetable Google Calendar</title><link href="http://localhost:4000/madebystudents/2017/04/11/MMU-Timetable-Google-Calendar/" rel="alternate" type="text/html" title="Mmu Timetable Google Calendar" /><published>2017-04-11T00:00:00+08:00</published><updated>2017-04-11T00:00:00+08:00</updated><id>http://localhost:4000/madebystudents/2017/04/11/MMU-Timetable-Google-Calendar</id><content type="html" xml:base="http://localhost:4000/madebystudents/2017/04/11/MMU-Timetable-Google-Calendar/">&lt;p&gt;Add your class schedule from CamSYS automatically to your google calendar!&lt;/p&gt;
 
-&lt;p&gt;$$: Free for all!&lt;/p&gt;
+&lt;p&gt;Credits to Raymond Choo for python web scraping backend.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://itcareerweek.org/&quot;&gt;More details on itcareerweek.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Tech: Php, Polymer&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://itcwresume.herokuapp.com&quot;&gt;Submit your resume here&lt;/a&gt;&lt;/p&gt;</content><author><name>Ng Weng Hong</name></author><summary type="html">IT Career Week is annual event that organized by IT Society MMU Cyberjaya, IT Career Week ’17 is an annual tech job fair aiming to address the need of startups as well as tech companies to find tech talents &amp;amp; raise brand awareness, while at the same time helping students to land a job/internship and explore their career path in IT industry.</summary></entry><entry><title type="html">Tech Talk Thursday #11</title><link href="http://localhost:4000/events/2017/01/03/Tech-Talk-Thursday-11/" rel="alternate" type="text/html" title="Tech Talk Thursday #11" /><published>2017-01-03T00:00:00+08:00</published><updated>2017-01-03T00:00:00+08:00</updated><id>http://localhost:4000/events/2017/01/03/Tech-Talk-Thursday-#11</id><content type="html" xml:base="http://localhost:4000/events/2017/01/03/Tech-Talk-Thursday-11/">&lt;figure class=&quot;figure  figure--center&quot;&gt;
-  &lt;img class=&quot;image&quot; src=&quot;/post-images/36.png&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
-  
-&lt;/figure&gt;
+&lt;p&gt;&lt;a href=&quot;http://mmutt.sle4ever.com/&quot;&gt;Visit Project&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Add your class schedule from CamSYS automatically to your google calendar!</summary></entry><entry><title type="html">Mmu Bulletin Twitter</title><link href="http://localhost:4000/madebystudents/2017/04/11/MMU-Bulletin-Twitter/" rel="alternate" type="text/html" title="Mmu Bulletin Twitter" /><published>2017-04-11T00:00:00+08:00</published><updated>2017-04-11T00:00:00+08:00</updated><id>http://localhost:4000/madebystudents/2017/04/11/MMU-Bulletin-Twitter</id><content type="html" xml:base="http://localhost:4000/madebystudents/2017/04/11/MMU-Bulletin-Twitter/">&lt;p&gt;Post bulletin news to twitter account.&lt;/p&gt;
 
-&lt;p&gt;We will be having Ditesh Gathani, the director of engineering at Grab (yes THAT app you used to get your GrabCars), to share about the technologies they are using and building in Grab.&lt;/p&gt;
+&lt;p&gt;Tech: Python, Beautiful Soup 4&lt;/p&gt;
 
-&lt;p&gt;Several members of the Grab engineering team will be coming over all the way from lion city and joining us in IT Career Week on 4th – 5th January. If you are interested in them, you better come!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/MMUbulletin&quot;&gt;Visit Project&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Post bulletin news to twitter account.</summary></entry><entry><title type="html">Mmu Hub</title><link href="http://localhost:4000/madebystudents/2017/04/10/MMU-Hub/" rel="alternate" type="text/html" title="Mmu Hub" /><published>2017-04-10T00:00:00+08:00</published><updated>2017-04-10T00:00:00+08:00</updated><id>http://localhost:4000/madebystudents/2017/04/10/MMU-Hub</id><content type="html" xml:base="http://localhost:4000/madebystudents/2017/04/10/MMU-Hub/">&lt;p&gt;All-in-one MMU app for Android, able to download your lecture notes and tutorials directly onto your device easily.&lt;/p&gt;
 
-&lt;p&gt;This event is open for PUBLIC.&lt;br /&gt;
-Don’t miss your opportunity and spend your evening with Grab !&lt;/p&gt;
+&lt;p&gt;Tech: Android, Ruby on Rails (back-end API)&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;About the talks&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.github.hiiyl.mmuhub&amp;amp;hl=en&quot;&gt;Visit Project&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">All-in-one MMU app for Android, able to download your lecture notes and tutorials directly onto your device easily.</summary></entry><entry><title type="html">Itcw Resume</title><link href="http://localhost:4000/madebystudents/2017/04/10/ITCW-Resume/" rel="alternate" type="text/html" title="Itcw Resume" /><published>2017-04-10T00:00:00+08:00</published><updated>2017-04-10T00:00:00+08:00</updated><id>http://localhost:4000/madebystudents/2017/04/10/ITCW-Resume</id><content type="html" xml:base="http://localhost:4000/madebystudents/2017/04/10/ITCW-Resume/">&lt;p&gt;Portal that allows students to upload their resumes, volunteers to filter and give feedbacks to students, and employers to access resumes wherever they want.&lt;/p&gt;
 
-&lt;p&gt;Tech Talk Thursdays is a series of talks and workshops organized by IT Society MMU Cyberjaya. We invite experts from the industry and academia to share with the students about the latest technology trends.&lt;/p&gt;
+&lt;p&gt;Tech: Ruby on Rails&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Event Details&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Venue: FCI Lecture Hall MMU Cyberjaya&lt;br /&gt;
-Date: 5th January 2017 (Thursday)&lt;br /&gt;
-Time: 7p.m. – 8p.m.&lt;br /&gt;
-Ticketing: &lt;a href=&quot;https://ttt11-grab.eventbrite.com/?aff=facebook&quot;&gt;Get your ticket at Eventbrite&lt;/a&gt;&lt;/p&gt;</content><author><name>Ying Hua Chai</name></author><summary type="html">We will be having Ditesh Gathani, the director of engineering at Grab (yes THAT app you used to get your GrabCars), to share about the technologies they are using and building in Grab.</summary></entry><entry><title type="html">Tech Talk Thursday #10</title><link href="http://localhost:4000/events/2017/01/03/Tech-Talk-Thursday-10/" rel="alternate" type="text/html" title="Tech Talk Thursday #10" /><published>2017-01-03T00:00:00+08:00</published><updated>2017-01-03T00:00:00+08:00</updated><id>http://localhost:4000/events/2017/01/03/Tech-Talk-Thursday-#10</id><content type="html" xml:base="http://localhost:4000/events/2017/01/03/Tech-Talk-Thursday-10/">&lt;figure class=&quot;figure  figure--center&quot;&gt;
-  &lt;img class=&quot;image&quot; src=&quot;/post-images/34.png&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;Tech Talk Thursdays is a series of talks and workshops organized by IT Society MMU Cyberjaya. We invite experts from the industry and academia to share with the students about the latest technology trends.&lt;/p&gt;
-
-&lt;figure class=&quot;figure  figure--center&quot;&gt;
-  &lt;img class=&quot;image&quot; src=&quot;/post-images/35.png&quot; alt=&quot;Jake Loo&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
-  &lt;figcaption class=&quot;caption&quot;&gt;Jake Loo&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;Featuring Speaker&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Jake Loo is currently working as an engineer in Bebo, primarily on Android applications. He studied in Diablo Valley College. Since then, he has worked on real-time systems that handled millions of requests per day and deployed several Android applications to the Play Store.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Event Details&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Venue: FCI Lecture Hall MMU Cyberjaya&lt;br /&gt;
-Date: 29th December 2016 (Thursday)&lt;br /&gt;
-Time: 8p.m. – 9p.m.&lt;br /&gt;
-Ticketing: &lt;a href=&quot;https://ttt10-bebo.eventbrite.com&quot;&gt;Get your ticket at Eventbrite&lt;/a&gt;&lt;/p&gt;</content><author><name>Ying Hua Chai</name></author><summary type="html">Tech Talk Thursdays is a series of talks and workshops organized by IT Society MMU Cyberjaya. We invite experts from the industry and academia to share with the students about the latest technology trends.</summary></entry><entry><title type="html">Tech Talk Thursday #7</title><link href="http://localhost:4000/events/2017/01/02/Tech-Talk-Thursday-7/" rel="alternate" type="text/html" title="Tech Talk Thursday #7" /><published>2017-01-02T00:00:00+08:00</published><updated>2017-01-02T00:00:00+08:00</updated><id>http://localhost:4000/events/2017/01/02/Tech-Talk-Thursday-#7</id><content type="html" xml:base="http://localhost:4000/events/2017/01/02/Tech-Talk-Thursday-7/">&lt;figure class=&quot;figure  figure--center&quot;&gt;
-  &lt;img class=&quot;image&quot; src=&quot;/post-images/30.png&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;Tech Talk Thursdays is a series of talks and workshops organized by IT Society MMU Cyberjaya. We invite experts from the industry and academia to share with the students about the latest technology trends.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;About the talks&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;In the world of business, nothing is what they appear. Among the many good people hide the treacherous hustlers waiting to exploit you. Take a wrong step and you’ll squander your hard-earned talent in a soul-crushing job. Learn how to spot dangerous people before it’s too late.&lt;/p&gt;
-
-&lt;p&gt;Join our talks with Y. K. Goon from &lt;a href=&quot;http://Kakitangan.com&quot;&gt;Kakitangan.com&lt;/a&gt;  and learn how to prevent people out there like Donald Trump take advantage of our talents do something unworthy of our time.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Featuring Speaker&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Y.K. Goon has been programming professionally since 2002. He has been in the start up scene in various capacities. Companies he helped build include Zalora, TribeHired and &lt;a href=&quot;http://Kakitangan.com/&quot;&gt;Kakitangan.com.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Event Details&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Venue: FCI Lecture Hall – CQMX0001&lt;br /&gt;
-Date: 1st December 2016&lt;br /&gt;
-Time: 8p.m. – 9p.m.&lt;br /&gt;
-Ticketing: &lt;a href=&quot;https://ttt7-kakitangan.eventbrite.com&quot;&gt;Get your ticket at Eventbrite&lt;/a&gt;&lt;/p&gt;</content><author><name>Ying Hua Chai</name></author><summary type="html">Tech Talk Thursdays is a series of talks and workshops organized by IT Society MMU Cyberjaya. We invite experts from the industry and academia to share with the students about the latest technology trends.</summary></entry><entry><title type="html">Tech Talk Thursday #9</title><link href="http://localhost:4000/events/2017/01/02/Tech-Talk-Thursday-9/" rel="alternate" type="text/html" title="Tech Talk Thursday #9" /><published>2017-01-02T00:00:00+08:00</published><updated>2017-01-02T00:00:00+08:00</updated><id>http://localhost:4000/events/2017/01/02/Tech-Talk-Thursday-#9</id><content type="html" xml:base="http://localhost:4000/events/2017/01/02/Tech-Talk-Thursday-9/">&lt;figure class=&quot;figure  figure--center&quot;&gt;
-  &lt;img class=&quot;image&quot; src=&quot;/post-images/32.png&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;Tech Talk Thursdays is a series of talks and workshops organized by IT Society MMU Cyberjaya. We invite experts from the industry and academia to share with the students about the latest technology trends.&lt;/p&gt;
-
-&lt;figure class=&quot;figure  figure--center&quot;&gt;
-  &lt;img class=&quot;image&quot; src=&quot;/post-images/33.png&quot; alt=&quot;Shane Qiam&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
-  &lt;figcaption class=&quot;caption&quot;&gt;Shane Qiam&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;Featuring Speaker&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Shane currently is the Tech Lead for GetDoc. He has more than a decade and a half of web development experience, primarily in the field of e-commerce. Other than IT, he also has experience setting up companies, prior joining GetDoc, he is the founder of tele-health platform: Preopinon. Shane has vast experience in web development utilizing Perl/PHP and MySQL, building and managing IT teams in Malaysia, Indonesia and Thailand, third-party vendor management, system architecture design &amp;amp; development, database management and e-commerce software development.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;About the Talks&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;You have a super brain that is powered by many cups of java. You have the next killer idea that will redefine the term “unicorn”. So, what’s next? Like all startup heroes, you will need your C.A.P.E. Spend your evening with Shane, a fellow techie, share his experience to help your idea grow to A-class startup hero status.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Event Details&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Venue: FCI Lecture Hall MMU Cyberjaya&lt;br /&gt;
-Date: 22th December 2016 (Thursday)&lt;br /&gt;
-Time: 8p.m. – 9p.m.&lt;br /&gt;
-Ticketing: &lt;a href=&quot;https://ttt9-getdoc.eventbrite.com&quot;&gt;Get your ticket at Eventbrite.&lt;/a&gt;&lt;/p&gt;</content><author><name>Ying Hua Chai</name></author><summary type="html">Tech Talk Thursdays is a series of talks and workshops organized by IT Society MMU Cyberjaya. We invite experts from the industry and academia to share with the students about the latest technology trends.</summary></entry><entry><title type="html">Tech Talk Thursday #8</title><link href="http://localhost:4000/events/2017/01/02/Tech-Talk-Thursday-8/" rel="alternate" type="text/html" title="Tech Talk Thursday #8" /><published>2017-01-02T00:00:00+08:00</published><updated>2017-01-02T00:00:00+08:00</updated><id>http://localhost:4000/events/2017/01/02/Tech-Talk-Thursday-#8</id><content type="html" xml:base="http://localhost:4000/events/2017/01/02/Tech-Talk-Thursday-8/">&lt;figure class=&quot;figure  figure--center&quot;&gt;
-  &lt;img class=&quot;image&quot; src=&quot;/post-images/31.png&quot; alt=&quot;&quot; width=&quot;&quot; height=&quot;&quot; /&gt;
-  
-&lt;/figure&gt;
-
-&lt;p&gt;Tech Talk Thursdays is a series of talks and workshops organized by IT Society MMU Cyberjaya. We invite experts from the industry and academia to share with the students about the latest technology trends.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;About the talks&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;We’ve been building apps from the very beginning when smartphone operating systems decided to open up themselves to third party developers.&lt;/p&gt;
-
-&lt;p&gt;What seemed to be an obscure hobby soon became a widely demanded trade and new projects kept on knocking at our doors.&lt;/p&gt;
-
-&lt;p&gt;From the gloriously brilliant to the downright absurd, we picked our battles and from there we’ve had the pleasure of building some really great apps for some startups that turned Unicorns like MyTeksi (Grab), iMoney, Says and more.&lt;br /&gt;
-We want to share with you the insights we’ve gained from our experiences and the lessons we’ve learned from our mistakes.&lt;/p&gt;
-
-&lt;p&gt;So if you are an aspiring app developer, entrepreneur or just your regular tech geek, come spend an evening with us!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Event Details&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Venue: FCI Lecture Hall MMU Cyberjaya&lt;br /&gt;
-Date: 15th December 2016 (Thursday)&lt;br /&gt;
-Time: 8p.m. – 9p.m.&lt;br /&gt;
-Ticketing: &lt;a href=&quot;https://ttt8-apptivitylab.eventbrite.com&quot;&gt;Get your ticket at Eventbrite&lt;/a&gt;&lt;/p&gt;</content><author><name>Ying Hua Chai</name></author><summary type="html">Tech Talk Thursdays is a series of talks and workshops organized by IT Society MMU Cyberjaya. We invite experts from the industry and academia to share with the students about the latest technology trends.</summary></entry></feed>
+&lt;p&gt;&lt;a href=&quot;https://itcwresume.herokuapp.com&quot;&gt;Visit Project&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Portal that allows students to upload their resumes, volunteers to filter and give feedbacks to students, and employers to access resumes wherever they want.</summary></entry></feed>

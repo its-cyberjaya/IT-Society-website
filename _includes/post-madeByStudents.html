@@ -3,14 +3,27 @@
     {% if category_name == "MadeByStudents" %}
       <section class="section  typeset">
         <!-- <h2 id="{{ category_name | slugify }}">{{ category_name }}</h2> -->
+        <p>This project showcases the apps that students in MMU Cyberjaya have developed.
+
+        There are no magic or sorcery behind any of these projects. Anyone, including you, can build these apps. If you work hard in honing your software development skills and has the great attitude of not giving up, you can come up with an app too.
+
+        Email us your work to <a href="mailto:itsoc.mmu@gmail.com"> itsoc.mmu@gmail.com</a> if you wish to have your work showcased here.
+        We can’t wait to put your next project here :p</p>
         <ul class="list  list--posts">
           {% for page in site.categories[category_name] %}
             {% assign has_categories = true %}
+            
             <li class="item  item--post">
               <article class="article  article--post  typeset">
-                <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
-                <img class="preview-image" src="{{page.feature_image}}">
-                {{ page.excerpt | truncatewords: 20 | markdownify }}<a href="{{ site.baseurl }}{{ page.url }}">Read More >></a>
+
+                <div class="card">
+                  <img class="preview-image" src="{{page.feature_image}}">
+                  <div class="container">
+                    <h4>{{ page.feature_text }}</h4>
+                    <div class="post-meta">by {{page.creator}}</div>
+                    <p>{{ page.content}}</p>
+                  </div>
+                </div>
               </article>
             </li>
           {% endfor %}
