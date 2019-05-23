@@ -1,6 +1,6 @@
 
 <br>
-<form class="form  form--{{ name_id }}" method="post" name="submit-to-google-sheet">
+<form id="form" class="form  form--{{ name_id }}" method="post" name="submit-to-google-sheet">
   <fieldset class="fieldset  form__fieldset">
     <legend class="legend form__legend">{{ name }}</legend>
     <label class="label" for="email--{{ name_id }}">Email Address: <span class="required">*</span></label>
@@ -53,8 +53,8 @@
 
     <input class="button" type="submit" value="Submit" />
     <br/>
-    <small class="small"><span class="required">*</span> indicates a required field</small>
-
+    <!-- <small class="small"><span class="required">*</span> indicates a required field</small> -->
+    <div class="message"></div>
   </fieldset>
 </form>
 
@@ -67,7 +67,12 @@
     form.addEventListener('submit', e => {
       e.preventDefault()
       fetch(scriptURL, { method: 'POST', body: new FormData(form)})
-        .then(response => console.log('Success!', response))
+        .then(response => {
+          document.querySelector(".message").innerHTML = "Success! Thank you for your application :)";
+          console.log('Success!', response);
+          document.getElementById("form").reset();
+        })
         .catch(error => console.error('Error!', error.message))
-    })
+    });
+
   </script>
