@@ -196,20 +196,6 @@
       },
     
       {
-        "title": "Mmu Bulletin",
-        "excerpt": "A fast, responsive bulletin board for Multimedia University.\n\n",
-        "content": "A fast, responsive bulletin board for Multimedia University.\n\nTech: Firebase, Node.js, Python, HTML, CSS, JavaScript\n\nVisit Project\n",
-        "url": "/madebystudents/2017/02/08/MMU-Bulletin/"
-      },
-    
-      {
-        "title": "Remote For Google Slides",
-        "excerpt": "Remote for Google Slides is a Chrome Extension + Progressive Web App that allows you to control Google Slides on any device, remotely.\n\n",
-        "content": "Remote for Google Slides is a Chrome Extension + Progressive Web App that allows you to control Google Slides on any device, remotely.\n\nTech: Progressive Web Apps, Preact, Firebase, HTML, CSS, Javascript\n\nVisit Project\n",
-        "url": "/madebystudents/2017/02/08/Remote-for-Google-Slides/"
-      },
-    
-      {
         "title": "Awesome Select",
         "excerpt": "Change the style of your dropdown to beautiful dropdown with Material Animation\n\n",
         "content": "Change the style of your dropdown to beautiful dropdown with Material Animation\n\nTech: Javascript\n\nVisit Project\n",
@@ -256,6 +242,20 @@
         "excerpt": "A truth table generator/comparator that parses boolean expressions in a specific notation as used in logic circuits.\n\n",
         "content": "A truth table generator/comparator that parses boolean expressions in a specific notation as used in logic circuits.\n\nTech: C#, WinForms\n\nVisit Project\n",
         "url": "/madebystudents/2017/04/11/Truth-Table-Generator/"
+      },
+    
+      {
+        "title": "Remote For Google Slides",
+        "excerpt": "Remote for Google Slides is a Chrome Extension + Progressive Web App that allows you to control Google Slides on any device, remotely.\n\n",
+        "content": "Remote for Google Slides is a Chrome Extension + Progressive Web App that allows you to control Google Slides on any device, remotely.\n\nTech: Progressive Web Apps, Preact, Firebase, HTML, CSS, Javascript\n\nVisit Project\n",
+        "url": "/madebystudents/2017/05/05/Remote-for-Google-Slides/"
+      },
+    
+      {
+        "title": "Mmu Bulletin",
+        "excerpt": "A fast, responsive bulletin board for Multimedia University.\n\n",
+        "content": "A fast, responsive bulletin board for Multimedia University.\n\nTech: Firebase, Node.js, Python, HTML, CSS, JavaScript\n\nVisit Project\n",
+        "url": "/madebystudents/2017/05/08/MMU-Bulletin/"
       },
     
       {
