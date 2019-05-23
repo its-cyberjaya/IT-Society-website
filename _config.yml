@@ -79,7 +79,7 @@ collections:
     description: ""
     feature-text: ""
     feature_text_desc: "#MadeByStudents"
-    feature_image: "/assets/bg/clean-gray-paper.png"
+    feature_image: "/assets/bg/grid-noise.png"
 
   joinUs:
     title: Join Us
@@ -87,7 +87,7 @@ collections:
     description: ""
     feature-text: ""
     feature_text_desc: "Join Us"
-    feature_image: "/assets/bg/clean-gray-paper.png"
+    feature_image: "/assets/bg/green-dust-and-scratches.png"
 
   contact:
     title: Contact Us
@@ -95,7 +95,7 @@ collections:
     description: ""
     feature-text: ""
     feature_text_desc: "Contact Us"
-    feature_image: "/assets/bg/clean-gray-paper.png"
+    feature_image: "/assets/bg/dark-circles.png"
 
    
 
