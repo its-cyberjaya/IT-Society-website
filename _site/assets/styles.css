@@ -1920,7 +1920,7 @@ article p {
 
 /* Add some padding inside the card container */
 .container {
-  padding: 2px 5px;
+  padding: 2px;
   position: relative; }
 
 .card {
