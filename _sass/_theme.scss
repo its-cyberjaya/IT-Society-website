@@ -364,19 +364,7 @@ button,
 }
 
 .button--nav {
-  @include breakpoint(break-1) {
-    display: none;
-  }
-  background: none;
-  color: $linkColour;
-  margin-bottom: 0;
-  min-height: 4rem;
-  min-width: 4rem;
-  &:hover,
-  &:focus {
-    box-shadow: none;
-    color: $hoverColour;
-  }
+  display: none;
 }
 
 a,
@@ -486,41 +474,79 @@ pre code {
       margin: 0;
     }
   }
-  .nav a {
-    padding-left: 0;
-    padding-right: 0;
-    margin-left: .2rem;
-    margin-right: .2rem;
-  }
+  // .nav a {
+  //   padding-left: 0;
+  //   padding-right: 0;
+  //   margin-left: .2rem;
+  //   margin-right: .2rem;
+  // }
   pre {
     white-space: pre;
     overflow-x: scroll;
   }
 }
-
-.list{
-  &--nav{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
+.nav-container{
+  margin: auto;  
+}
+.navbar{
+  position: relative;  
 }
 
-.item{
-  &--nav{
-    line-height: 50px;
-    text-align: center;
-    padding: 0 5px;
-  }
+.navbar-menu{
+  text-align: right;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  clear: right;
+  padding-right: 5px;
 }
 
-//Navbar header logo
-.item{
-  &--nav:nth-child(5){
-    content: url('https://en.gravatar.com/userimage/151615055/40c3751e5d90ba3b6713edfc02498e50.png');
-    padding: 0 15px;
-    transform: scale(0.8);
+.navbar-menu > li{
+  list-style-type: none;
+  margin: 5px;
+}
+
+.navbar-menu > li:nth-child(5){
+  content: url('https://gravatar.com/avatar/fba3bd65ae066575bed2847d64db94ce');
+  transform: scale(0.8);
+}
+
+.menu-btn{
+  display: none;
+  float: right;
+  padding: 20px 20px 20px 0;
+}
+.menu-btn::after{
+  content: '\f0c9';
+  font-family: FontAwesome;
+  font-size: 30px;
+}
+
+@media only screen and (max-width: 768px) {
+  .navbar-menu{
+    flex-direction: column;
+    align-content: flex-end;
+    margin-top: 50px;
   }
+  .navbar-menu > li:nth-child(5){
+    display: none;
+  }
+  
+  .logo{
+    display: none;
+  }
+  
+  .menu-btn{
+    display: block;    
+  }
+
+
+}
+
+.hide{
+  display: none;
 }
 
 article h1:first-of-type{

@@ -77,106 +77,97 @@
     <header class="header">
   <div class="container">
     
-
-    
-<nav class="nav  nav--header">
-  <ul class="list  list--nav">
+    <div class="nav-container">
+<nav class="navbar">
+  <div class="menu-btn" onclick="showMenu()"></div>
+  <ul class="navbar-menu">
     
 
       
 
-      <li class="item  item--nav">
+      <li>
         <a href="/">Home</a>
       </li>
     
 
       
 
-      <li class="item  item--nav">
+      <li>
         <a href="/blog/">Blog</a>
       </li>
     
 
       
 
-      <li class="item  item--nav  item--current">
+      <li>
         <a href="/events/">Events</a>
       </li>
     
 
       
 
-      <li class="item  item--nav">
+      <li>
         <a href="/partners/">Our Partners</a>
       </li>
     
 
       
 
-      <li class="item  item--nav">
+      <li>
         <a href="/">Logo</a>
       </li>
     
 
       
 
-      <li class="item  item--nav">
+      <li>
         <a href="/MadeByStudents/">MadeByStudents</a>
       </li>
     
 
       
 
-      <li class="item  item--nav">
+      <li>
         <a href="/join/">Join Us</a>
       </li>
     
 
       
 
-      <li class="item  item--nav">
+      <li>
         <a href="/contact/">Contact Us</a>
       </li>
     
   </ul>
-  <button class="button  button--nav" aria-label="Menu toggle">
-    <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title><use xlink:href="#nav" fill="CurrentColor"></use></svg>
-
-  </button>
 </nav>
 
 
 <script type="text/javascript">
-  // Get list and button
-  const navList = document.querySelector('.header .list--nav')
-  const button  = document.querySelector('.header .button--nav')
+ 
+var menuBtn = document.querySelector(".menu-btn");
+var menuList = document.querySelector(".navbar-menu");
 
-  // Hide nav and apply toggle
-  const collapseNav = () => {
-    if (document.body.clientWidth < 640) {
-      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
-    } else {
-      navList.removeAttribute('style')
-    }
-
-    button.onclick = () => {
-      navList.style.setProperty('transition', `margin .1s`)
-      if (navList.style.getPropertyValue('--listHeight')) {
-        navList.style.removeProperty('--listHeight')
-      } else {
-        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
-      }
-    }
+function myFunction(x) {
+  if (x.matches) { // If media query matches
+    menuList.classList.add("hide");
+  } 
+  else {
+    menuList.classList.remove("hide");
   }
+}
 
-  collapseNav()
+function showMenu(){
+    menuList.classList.toggle("hide");    
+  
+}
 
-  // Check on resize if to collapse nav
-  window.addEventListener('resize', () => {
-    collapseNav()
-  })
+var x = window.matchMedia("(max-width: 768px)")
+myFunction(x) // Call listener function at run time
+x.addListener(myFunction) // Attach listener function on state change
 </script>
+</div>
 
+    
   </div>
 
   
