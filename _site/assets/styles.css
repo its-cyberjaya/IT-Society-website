@@ -1652,9 +1652,6 @@ pre code {
 .nav-container {
   margin: auto; }
 
-.navbar {
-  position: relative; }
-
 .navbar-menu {
   text-align: right;
   display: flex;
@@ -1676,7 +1673,10 @@ pre code {
 .menu-btn {
   display: none;
   float: right;
-  padding: 20px 20px 20px 0; }
+  padding: 20px 20px 20px 0;
+  position: absolute;
+  top: 0;
+  right: 0; }
 
 .menu-btn::after {
   content: '\f0c9';
@@ -1920,7 +1920,8 @@ article p {
 
 /* Add some padding inside the card container */
 .container {
-  padding: 2px 5px; }
+  padding: 2px 5px;
+  position: relative; }
 
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
