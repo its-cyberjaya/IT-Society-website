@@ -19,7 +19,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://www.itsociety.rocks'
 baseurl: ''
 title: 'IT Society'
 description: 'Empowerment through technology'
