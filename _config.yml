@@ -24,7 +24,7 @@ baseurl: ''
 title: 'IT Society'
 description: 'Empowerment through technology'
 permalink: pretty
-avatarurl: 'https://gravatar.com/avatar/fba3bd65ae066575bed2847d64db94ce'
+avatarurl: '/logo.png'
 # logo: "https://gravatar.com/avatar/fba3bd65ae066575bed2847d64db94ce"
 
 # Pagination
