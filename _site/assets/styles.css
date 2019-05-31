@@ -1659,8 +1659,7 @@ pre code {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  clear: right;
-  padding-right: 5px; }
+  clear: right; }
 
 .navbar-menu > li {
   list-style-type: none;
