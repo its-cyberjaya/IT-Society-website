@@ -1,0 +1,8 @@
+/* Labels for blog posts */
+
+General
+Events
+Announcement
+Random
+Tutorial
+Guides
