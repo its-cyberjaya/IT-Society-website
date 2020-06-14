@@ -293,6 +293,13 @@
         "url": "/general/2019/06/11/Google-Developer-Student-Club/"
       },
     
+      {
+        "title": "New Post",
+        "excerpt": "\n",
+        "content": "\n",
+        "url": "/2020/06/14/new-post/"
+      },
+    
   
   
   
@@ -339,9 +346,9 @@
   },
   
   {
-    "title": "Your Title",
+    "title": "Hello world",
     "excerpt": "\n",
-    "content": "hello world\nHello beautiful people in the internet\n",
+    "content": "Hello world!\nHi, there I am Gracee\n",
     "url": "/newpage/"
   },
   
@@ -364,34 +371,6 @@
     "excerpt": "\n",
     "content": "\n",
     "url": "/blog/page4/"
-  },
-  
-  {
-    "title": "blog",
-    "excerpt": "\n",
-    "content": "\n",
-    "url": "/blog/page5/"
-  },
-  
-  {
-    "title": "blog",
-    "excerpt": "\n",
-    "content": "\n",
-    "url": "/blog/page6/"
-  },
-  
-  {
-    "title": "blog",
-    "excerpt": "\n",
-    "content": "\n",
-    "url": "/blog/page7/"
-  },
-  
-  {
-    "title": "blog",
-    "excerpt": "\n",
-    "content": "\n",
-    "url": "/blog/page8/"
   }
   
 ]
