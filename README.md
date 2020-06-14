@@ -1,4 +1,4 @@
-#IT Society Blog
+# IT Society Blog
 ### 1. Blog structure
  \> root 
 <br />
@@ -57,6 +57,7 @@ Run `bundle exec jekyll serve` to view any changes made to post or page. For edi
 ### 4. Creating a blog page
 1. Create a new file `page-title.md`
 2. Add blog page front matter
+<br />
 ![](https://i.imgur.com/m14chBn.png)
 > - title: Page title
 > - layout: `page`
