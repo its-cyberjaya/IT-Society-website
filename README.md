@@ -41,7 +41,6 @@ package-lock.json
 `YYYY-MM-DD-slug.md`
 2. Include post front matter at the top of the post
 ![](https://i.imgur.com/YZfB768.png)
-<br />
 > - layout: post | page | default
 > - feature_text_desc: Title on post feature image
 > - categories: General | Events | Announcement | Random |Tutorial | Guides (remember to keep this list updated)
@@ -59,7 +58,6 @@ Run `bundle exec jekyll serve` to view any changes made to post or page. For edi
 1. Create a new file `page-title.md`
 2. Add blog page front matter
 ![](https://i.imgur.com/m14chBn.png)
-<br />
 > - title: Page title
 > - layout: `page`
 > - feature_image: Feature images can be found in /assets/bg/
