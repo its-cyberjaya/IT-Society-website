@@ -126,10 +126,10 @@
       },
     
       {
-        "title": "Google I/o Extended 2016",
+        "title": "Google Io Extended 2016",
         "excerpt": "\n  \n  \n\n\nEvent Page:  https://io16mmu.appspot.com\n\n",
         "content": "\n  \n  \n\n\nEvent Page:  https://io16mmu.appspot.com\n\nYou need to register at:  http://io16mmu.peatix.com\n\nGoogle I/O is for developers – the creative coders who are building what’s next. Each year, we explore the latest in tech, mobile &amp; beyond.\n\nThis year, Google I/O would be held from May 18–20 in the Shoreline Amphitheatre in Mountain View.\n\nYou don’t have to be in Mountain View to attend Google I/O this year. We brings you the I/O experience right here, in MMU Cyberjaya.\n\nAgenda\n\n\n  Door open at 10:45PM (18 May)\n  Keynote livestream starts at 1:00AM (19 May)\n\n\nWhen\n\n11:00PM, 18 May – 3:00AM, 19 May\n\nWhere\n\nFOM Theater Hall, Faculty of Management, Multimedia University, Cyberjaya, Malaysia) – View Map\n",
-        "url": "/general/2016/05/16/Google-I-O-Extended-2016/"
+        "url": "/general/2016/05/16/Google-IO-Extended-2016/"
       },
     
       {
@@ -339,10 +339,10 @@
   },
   
   {
-    "title": "Search",
-    "excerpt": "Search for a page or post you’re looking for\n",
-    "content": "{% include site-search.html %}\n",
-    "url": "/search/"
+    "title": "Your Title",
+    "excerpt": "\n",
+    "content": "hello world\nHello beautiful people in the internet\n",
+    "url": "/newpage/"
   },
   
   {
