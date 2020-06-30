@@ -1,8 +1,8 @@
-const version = '20200614171438';
+const version = '20200630181303';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/general/2019/06/11/Google-Developer-Student-Club/","/events/2018/12/23/Blockchain-&-Crytocurrency-Talk/","/events/2018/12/22/FCI-Jumpstart-Orientation-2018/","/general/2017/09/17/Binary-Hackathon/","/events/2017/06/30/Google-Ignite-2017/","/madebystudents/2017/05/08/MMU-Bulletin/","/madebystudents/2017/05/05/Remote-for-Google-Slides/","/madebystudents/2017/04/11/Truth-Table-Generator/","/madebystudents/2017/04/11/MMU-Timetable-Google-Calendar/","/madebystudents/2017/04/11/MMU-Bulletin-Twitter/","/about/","/categories/","/elements/","/blog/","/contact/","/events/","/join/","/partners/","/MadeByStudents/","/","/manifest.json","/newpage/","/assets/search.json","/assets/styles.css","/redirects.json","/blog/page2/","/blog/page3/","/blog/page4/","/blog/page5/","/blog/page6/","/blog/page7/","/blog/page8/","/feed.xml","/sitemap.xml","/robots.txt","", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/events/2020/06/30/BarCamp-2020/","/events/2020/06/29/FCI-Jumpstart-Orientation-2020/","/general/2019/06/11/Google-Developer-Student-Club/","/events/2018/12/23/Blockchain-&-Crytocurrency-Talk/","/events/2018/12/22/FCI-Jumpstart-Orientation-2018/","/general/2017/09/17/Binary-Hackathon/","/events/2017/06/30/Google-Ignite-2017/","/madebystudents/2017/05/08/MMU-Bulletin/","/madebystudents/2017/05/05/Remote-for-Google-Slides/","/madebystudents/2017/04/11/Truth-Table-Generator/","/about/","/categories/","/elements/","/blog/","/contact/","/events/","/join/","/scoreboard/","/partners/","/MadeByStudents/","/","/manifest.json","/newpage/","/assets/search.json","/assets/styles.css","/redirects.json","/blog/page2/","/blog/page3/","/blog/page4/","/blog/page5/","/blog/page6/","/blog/page7/","/blog/page8/","/blog/page9/","/feed.xml","/sitemap.xml","/robots.txt","", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

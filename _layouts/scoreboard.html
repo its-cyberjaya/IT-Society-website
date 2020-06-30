@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+{% include site-header.html %}
+
+<main class="main  container">
+
+  <div class="content">
+
+    <article class="article  article--page  typeset">
+
+      <p>
+          These are the results from the latest HackerRank contests! 
+      </p>     
+
+      {% include site-scoreboard-table.html %}
+
+      <br>
+      <p>
+          This scoreboard will reset after each academic year. Climb the board before it gets refreshed! The next reset is <u>Jun 27, 2021</u>.
+          Which leaves us
+          {% include site-event-countdown.html %} 
+          until the next reset.
+      </p>     
+
+      <!-- Date for the end of an acedemic year -->
+	  
+      <p style="text-align:center; font-size:150%;"><b> How this works? </b></p>
+
+      <p>
+      	This is a ranking system for IT Society's programming contests. For each semester IT Society Cyberjaya will organize one programming contest on HackerRank. Participants can obtain as much score as possible during the contest. The obtained score will directly contribute to this scoreboard.
+      	<br>
+      	Each MMU academic year is a "season" for this scoreboard. It starts at the very beginning of Trimester 1 and will reset at the end of Trimester 3's break (around June/July). The scoreboard will be reset to zero after that and a new round of rankings will begin.
+      </p>
+
+      <p style="text-align:center; font-size:150%;"><b> Unnamed HackerRank Contest </b></p>
+
+      <p>
+      	A new HackerRank contest is coming soon! Be sure to check out our <a href="http://127.0.0.1:4000/events/">Events</a> page for more details! Contests are currently open for MMU students with an active student Gmail account only.
+      </p>
+
+    </article>
+  </div>
+
+</main>
+
+{% include site-footer.html %}

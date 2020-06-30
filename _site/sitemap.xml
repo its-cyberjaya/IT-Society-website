@@ -157,6 +157,14 @@
 <lastmod>2019-06-11T00:00:00+08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/events/2020/06/29/FCI-Jumpstart-Orientation-2020/</loc>
+<lastmod>2020-06-29T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/events/2020/06/30/BarCamp-2020/</loc>
+<lastmod>2020-06-30T00:00:00+08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -176,6 +184,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/join/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/scoreboard/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/partners/</loc>
@@ -209,5 +220,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/blog/page8/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/page9/</loc>
 </url>
 </urlset>
