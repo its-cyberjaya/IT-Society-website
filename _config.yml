@@ -36,11 +36,13 @@ navigation_header:
   Home: /
   Blog: /blog/
   Events: /events/
-  Our Partners: /partners/
-  Logo: /
   MadeByStudents: /MadeByStudents/
+  Logo: /
+  Scoreboard: /scoreboard/
+  Our Partners: /partners/
   Join Us: /join/
   Contact Us: /contact/
+
 
 
 # Footer nav
@@ -96,6 +98,15 @@ collections:
     feature-text: ""
     feature_text_desc: "Contact Us"
     feature_image: "/assets/bg/dark-circles.png"
+
+  scoreboard:
+    title: Scoreboard
+    output: true
+    description: ""
+    feature-text: ""
+    feature_text_desc: "Scoreboard"
+    feature_image: "/assets/bg/inspiration-geometry.png"
+
 
    
 

@@ -73,3 +73,11 @@ Run `bundle exec jekyll serve` to view any changes made to post or page. For edi
 
 ### 6. Blog domain
 Blog domain name can be found in the CNAME file and can be managed in IT Society's Namecheap account
+
+### 7. Scoreboard
+1. Editing the scoreboard
+	Go to _includes and find site-scoreboard-table.html.
+2. Editing the ranking reset date
+	There are two places that need modification.
+	Go to _includes and find site-event-countdown. It is located at the first line of the script.
+	Also go to _layouts and find scoreboard.html to change the date.
