@@ -19,4 +19,4 @@ Jumpstart Orientation is a programme which aims to introduce the industrial side
 
 We have prepared a coding workshop (Introduction to Web Development with HTML and GitHub), a virtual industrial sharing session and a mini competition. These activities will give you a jump-start for your academic year in MMU!
 
-Unlike previous Jumpstarts, this year's event will be fully online. Register [now](https://docs.google.com/forms/d/e/1FAIpQLSewxcz4-69cj-sHcuBNgpRDCJpkH1amYPQKG17mXhn4h9T-mg/viewform) and see what we have up our sleeves. 😁
+Unlike previous Jumpstarts, this year's event will be fully online. Register <a href="https://docs.google.com/forms/d/e/1FAIpQLSewxcz4-69cj-sHcuBNgpRDCJpkH1amYPQKG17mXhn4h9T-mg/viewform" target="_blank">now</a> and see what we have up our sleeves. 😁
