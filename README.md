@@ -77,7 +77,7 @@ Blog domain name can be found in the CNAME file and can be managed in IT Society
 ### 7. Scoreboard
 1. Editing the scoreboard
 	Go to _includes and find site-scoreboard-table.html.
-2. Editing the ranking reset date
+2. Editing the ranking reset date/edit the post
 	There are two places that need modification.
 	Go to _includes and find site-event-countdown. It is located at the first line of the script.
 	Also go to _layouts and find scoreboard.html to change the date.
