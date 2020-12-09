@@ -8,9 +8,9 @@
     
 
     
-      <!-- Begin Jekyll SEO tag v2.6.0 -->
+      <!-- Begin Jekyll SEO tag v2.7.1 -->
 <title>Elements | IT Society</title>
-<meta name="generator" content="Jekyll v3.8.5" />
+<meta name="generator" content="Jekyll v3.9.0" />
 <meta property="og:title" content="Elements" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="A demo of Markdown and HTML includes" />
@@ -18,6 +18,8 @@
 <link rel="canonical" href="http://localhost:4000/elements/" />
 <meta property="og:url" content="http://localhost:4000/elements/" />
 <meta property="og:site_name" content="IT Society" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Elements" />
 <script type="application/ld+json">
 {"@type":"WebPage","url":"http://localhost:4000/elements/","headline":"Elements","description":"A demo of Markdown and HTML includes","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
@@ -221,7 +223,7 @@ x.addListener(myFunction) // Attach listener function on state change
 
 <p>Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.</p>
 
-<p>Duis aute irure dolor in <a href="https://david.darn.es" title="A link">A link</a> reprehenderit in voluptate velit esse cillum <strong>bold text</strong> dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt <em>italicised text</em> in culpa qui officia deserunt mollit anim id <code class="highlighter-rouge">some code</code> est laborum.</p>
+<p>Duis aute irure dolor in <a href="https://david.darn.es" title="A link">A link</a> reprehenderit in voluptate velit esse cillum <strong>bold text</strong> dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt <em>italicised text</em> in culpa qui officia deserunt mollit anim id <code class="language-plaintext highlighter-rouge">some code</code> est laborum.</p>
 
 <ul>
   <li>An item</li>
@@ -266,14 +268,14 @@ x.addListener(myFunction) // Attach listener function on state change
 
 <p>…and JavaScript</p>
 
-<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">blockquote</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s2">"blockquote"</span><span class="p">)</span>
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">blockquote</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="dl">"</span><span class="s2">blockquote</span><span class="dl">"</span><span class="p">)</span>
 <span class="kd">const</span> <span class="nx">bolden</span> <span class="o">=</span> <span class="p">(</span><span class="nx">keyString</span><span class="p">,</span> <span class="nx">string</span><span class="p">)</span> <span class="o">=&gt;</span>
-  <span class="nx">string</span><span class="p">.</span><span class="nx">replace</span><span class="p">(</span><span class="k">new</span> <span class="nb">RegExp</span><span class="p">(</span><span class="nx">keyString</span><span class="p">,</span> <span class="s1">'g'</span><span class="p">),</span> <span class="s1">'&lt;strong&gt;'</span><span class="o">+</span><span class="nx">keyString</span><span class="o">+</span><span class="s1">'&lt;/strong&gt;'</span><span class="p">)</span>
+  <span class="nx">string</span><span class="p">.</span><span class="nx">replace</span><span class="p">(</span><span class="k">new</span> <span class="nb">RegExp</span><span class="p">(</span><span class="nx">keyString</span><span class="p">,</span> <span class="dl">'</span><span class="s1">g</span><span class="dl">'</span><span class="p">),</span> <span class="dl">'</span><span class="s1">&lt;strong&gt;</span><span class="dl">'</span><span class="o">+</span><span class="nx">keyString</span><span class="o">+</span><span class="dl">'</span><span class="s1">&lt;/strong&gt;</span><span class="dl">'</span><span class="p">)</span>
 
-<span class="nx">blockquote</span><span class="p">.</span><span class="nx">innerHTML</span> <span class="o">=</span> <span class="nx">bolden</span><span class="p">(</span><span class="s2">"Mr. Sullivan"</span><span class="p">,</span> <span class="nx">blockquote</span><span class="p">.</span><span class="nx">innerHTML</span><span class="p">)</span>
+<span class="nx">blockquote</span><span class="p">.</span><span class="nx">innerHTML</span> <span class="o">=</span> <span class="nx">bolden</span><span class="p">(</span><span class="dl">"</span><span class="s2">Mr. Sullivan</span><span class="dl">"</span><span class="p">,</span> <span class="nx">blockquote</span><span class="p">.</span><span class="nx">innerHTML</span><span class="p">)</span>
 </code></pre></div></div>
 
-<p><code class="highlighter-rouge">Single line of code</code></p>
+<p><code class="language-plaintext highlighter-rouge">Single line of code</code></p>
 
 <h2 id="html-includes">HTML Includes</h2>
 
@@ -299,7 +301,7 @@ x.addListener(myFunction) // Attach listener function on state change
         </fieldset>
       </form>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  &lt;!-- submit to google spreadsheet --&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  &lt;!-- submit to google spreadsheet --&gt;
   &lt;script&gt;
       const scriptURL = ''
       const form = document.forms['submit-to-google-sheet']
