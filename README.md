@@ -37,7 +37,7 @@ Gemfile
 package-lock.json
 
 ### 2. Creating blog post
-1. Inside /_posts, create a new file and name it with the following format:
+1. Inside \_posts, create a new file and name it with the following format:
 `YYYY-MM-DD-slug.md`
 2. Include post front matter at the top of the post
 ![](https://i.imgur.com/YZfB768.png)
@@ -51,7 +51,7 @@ package-lock.json
 for a complete markdown guide)
 
 ### 3. Editing and publishing changes to blog
-Run `bundle exec jekyll serve` to view any changes made to post or page. For edits to _config.yml,the site must be re-built
+Run `bundle exec jekyll serve` to view any changes made to post or page. For edits to \_config.yml,the site must be re-built
  first by running `bundle exec jekyll build`
  
 ### 4. Creating a blog page
